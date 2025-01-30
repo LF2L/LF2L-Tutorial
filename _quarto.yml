@@ -23,10 +23,10 @@ format:
     number-sections: false
     fig-align: center
     code-copy: true        
-    #header-logo: "images/logos/UL.svg"    
+    #header-logo: "images/UL.svg"    
     #subtitle-as-header: true
     sc-sb-title: false
-    chalkboard: true
+    chalkboard: false
     subtitle-as-header: true
     auto-stretch: false  
 

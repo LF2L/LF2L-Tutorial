@@ -4,6 +4,28 @@ format:
   html:
     toc: true
 
+listing:
+  - id: printing
+    contents: "3D-printing/*.qmd"
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: false
+  - id: laser
+    contents: "laser-cut/*.qmd"
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: false
+  
 ---
 
-# Listado de tutorialse
+# Tutoriales sur l'impression 3D
+
+::: {#printing}
+:::
+
+# Tutoriales Decoupe laser
+
+::: {#laser}
+:::

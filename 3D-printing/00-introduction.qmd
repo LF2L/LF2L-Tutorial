@@ -1,6 +1,6 @@
 ---
 title: "Impression 3D"
-subtitle: "Tutorial template"  
+subtitle: "[Liste de tutoriels](/)"  
 email: "xxx@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -17,6 +17,7 @@ format:
 # But du Tutoriel
 
 ## But pédagogique de ce tutorial
+
 
 1. 🧠 **Connaisences** : 
    - Domaine de l'Impression 3D
@@ -38,7 +39,7 @@ Contrairement à d'autres méthodes de fabrication, elle ne nécessite pas de mo
 :::
 
 :::{}
-![](images/tuto-1/Image-to-find.jpg){width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 
 :::
@@ -69,7 +70,7 @@ Le PLA (acide polylactique) est économique, facile à utiliser et moins toxique
 :::
 
 :::{}
-![](images/tuto-1/Image-to-find.jpg){width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 :::
 
@@ -88,7 +89,7 @@ Le processus d'impression suit ces étapes de base :
 
 :::
 ::: {}
-![](images/tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 :::
 
@@ -104,24 +105,7 @@ Le processus d'impression suit ces étapes de base :
 3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
 :::
 ::: {}
-![](images/tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
-:::
-:::
-
-## Pas à suivre pour l'impression: 
-
-Le processus d'impression suit ces étapes de base :  
-
-:::{layout="[80,40]"}
-:::{}
-
-1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
-2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
-3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
-4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
-:::
-::: {}
-![](images/tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 :::
 
@@ -136,10 +120,9 @@ Le processus d'impression suit ces étapes de base :
 2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
 3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
 4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
-5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
 :::
 ::: {}
-![](images/tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 :::
 
@@ -155,10 +138,9 @@ Le processus d'impression suit ces étapes de base :
 3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
 4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
 5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
-6. **Imprimer et superviser :** Surveillez le processus pour détecter les erreurs à temps.
 :::
 ::: {}
-![](images/tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 :::
 
@@ -175,10 +157,29 @@ Le processus d'impression suit ces étapes de base :
 4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
 5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
 6. **Imprimer et superviser :** Surveillez le processus pour détecter les erreurs à temps.
+:::
+::: {}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
+:::
+:::
+
+## Pas à suivre pour l'impression: 
+
+Le processus d'impression suit ces étapes de base :  
+
+:::{layout="[80,40]"}
+:::{}
+
+1. **Obtenir un modèle 3D:** Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.  
+2. **Préparer le fichier :** Utilisez un programme *slicer* (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.  
+3. **Transférer le fichier :** Envoyez-le à l'imprimante via USB, SD ou Wi-Fi.  
+4. **Calibrer :** Niveler le plateau d'impression et ajuster la buse pour une bonne adhérence.  
+5. **Placer le filament :** Assurez-vous qu'il soit sec et bien stocké.  
+6. **Imprimer et superviser :** Surveillez le processus pour détecter les erreurs à temps.
 
 :::
 ::: {}
-![](images/tuto-1/Image-to-find.jpg){ width="95%" fig-align="center"}
+![](figures/image-test.jpg){width="95%" fig-align="center"}
 :::
 :::
 

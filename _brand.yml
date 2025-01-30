@@ -3,6 +3,7 @@ color:
     dark-grey: "#222222"
     blue: "#ddeaf1"
     morado: "#592C8E"
+    orange: "#f37703"
   background: white
   foreground: dark-grey
   primary: black
@@ -18,4 +19,7 @@ typography:
       source: google  
   base: EB+Garamond
   headings: Jura
+  link:
+    decoration: underline
+    color: "orange"
 
