@@ -1,0 +1,21 @@
+color:
+  palette:
+    dark-grey: "#222222"
+    blue: "#ddeaf1"
+    morado: "#592C8E"
+  background: white
+  foreground: dark-grey
+  primary: black
+
+logo: 
+  medium: images/LF2L-Vertical.jpg
+
+typography:
+  fonts:
+    - family: Jura
+      source: google
+    - family: Roboto
+      source: google  
+  base: EB+Garamond
+  headings: Jura
+
