@@ -83,6 +83,8 @@ format:
 
 ### 5. **Entretien de la lentille de découpe**
 
+
+
 ## Remplacement de la lentille :
 ## Pour changer la lentille, dévissez la pièce de fixation.
 ## Retirez la lentille et nettoyez-la avec le même procédé décrit précédemment, en utilisant une goutte de liquide et un tissu propre.
