@@ -69,6 +69,158 @@ Attendez jusqu'à ce que le message "la file d’attente est vide" apparaisse. �
 :::
 :::
 
+
+
+# Envoyer à graver et couper :
+
+##
+:::{layout="[40,60]"}
+:::{}
+
+
+Le fichier SVG est envoyé à la plateforme en ligne Ruby.
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGRuby/39.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGRuby/40.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Les réglages nécessaires sont générés dans le site.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Configurez la découpe en faisant attention aux couleurs :
+
+- Rouge : Découpe
+- Noir : Gravure
+
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGRuby/41.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGRuby/42.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Envoyer le fichier à la liste d’attente de la découpeuse laser.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+La machine doit être allumée. (retour à la rubrique allumer la machine)
+
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGRuby/43.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGRuby/44.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Ouvrez le capot.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Placez le matériau dans l’angle supérieur droit.
+
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGRuby/45.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGRuby/46.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Déplacez la tête de découpe vers une section où se trouve le matériau.
+
+:::
+:::
+##
+:::{layout="[40,60]"}
+:::{}
+
+Appuyez simultanément sur les flèches haut et bas pour que la machine calibre la hauteur du matériau.
+
+
+:::
+
+:::{}
+![](../images/tuto-1/IMGRuby/47.png){width="95%" fig-align="center"}
+:::
+:::
+## 
+
+:::{layout="[40,60]"}
+:::{}
+
+![](../images/tuto-1/IMGRuby/48.png){width="95%" fig-align="center"}
+
+:::
+:::{}
+
+Attention à sélectionner l’option "point d’accroche au laser" :
+- Avec cette option, la buse commencera à découper à partir de la position actuelle de la machine.
+- Sans cette option, le processus commencera depuis l’origine prédéfinie (angle supérieur gauche).
+
+:::
+:::
+
+
+
+
+
+
+
+
 # Comment nettoyer la machine 
 
 ## 
@@ -494,7 +646,7 @@ Revissez la buse.
 :::
 :::
 
-## Nettoyage de la grille (avec un aspirateur) :
+# Nettoyage de la grille (avec un aspirateur) :
 
 ## 
 
@@ -599,145 +751,3 @@ Fermez le capot.
 :::
 :::
 
-# Envoyer à graver et couper :
-
-##
-:::{layout="[40,60]"}
-:::{}
-
-
-Le fichier SVG est envoyé à la plateforme en ligne Ruby.
-
-:::
-
-:::{}
-![](../images/tuto-1/IMGRuby/39.png){width="95%" fig-align="center"}
-:::
-:::
-## 
-
-:::{layout="[40,60]"}
-:::{}
-
-![](../images/tuto-1/IMGRuby/40.png){width="95%" fig-align="center"}
-
-:::
-:::{}
-
-Les réglages nécessaires sont générés dans le site.
-
-:::
-:::
-##
-:::{layout="[40,60]"}
-:::{}
-
-Configurez la découpe en faisant attention aux couleurs :
-
-- Rouge : Découpe
-- Noir : Gravure
-
-
-:::
-
-:::{}
-![](../images/tuto-1/IMGRuby/41.png){width="95%" fig-align="center"}
-:::
-:::
-## 
-
-:::{layout="[40,60]"}
-:::{}
-
-![](../images/tuto-1/IMGRuby/42.png){width="95%" fig-align="center"}
-
-:::
-:::{}
-
-Envoyer le fichier à la liste d’attente de la découpeuse laser.
-
-:::
-:::
-##
-:::{layout="[40,60]"}
-:::{}
-
-La machine doit être allumée. (retour à la rubrique allumer la machine)
-
-
-:::
-
-:::{}
-![](../images/tuto-1/IMGRuby/43.png){width="95%" fig-align="center"}
-:::
-:::
-## 
-
-:::{layout="[40,60]"}
-:::{}
-
-![](../images/tuto-1/IMGRuby/44.png){width="95%" fig-align="center"}
-
-:::
-:::{}
-
-Ouvrez le capot.
-
-:::
-:::
-##
-:::{layout="[40,60]"}
-:::{}
-
-Placez le matériau dans l’angle supérieur droit.
-
-
-:::
-
-:::{}
-![](../images/tuto-1/IMGRuby/45.png){width="95%" fig-align="center"}
-:::
-:::
-## 
-
-:::{layout="[40,60]"}
-:::{}
-
-![](../images/tuto-1/IMGRuby/46.png){width="95%" fig-align="center"}
-
-:::
-:::{}
-
-Déplacez la tête de découpe vers une section où se trouve le matériau.
-
-:::
-:::
-##
-:::{layout="[40,60]"}
-:::{}
-
-Appuyez simultanément sur les flèches haut et bas pour que la machine calibre la hauteur du matériau.
-
-
-:::
-
-:::{}
-![](../images/tuto-1/IMGRuby/47.png){width="95%" fig-align="center"}
-:::
-:::
-## 
-
-:::{layout="[40,60]"}
-:::{}
-
-![](../images/tuto-1/IMGRuby/48.png){width="95%" fig-align="center"}
-
-:::
-:::{}
-
-Attention à sélectionner l’option "point d’accroche au laser" :
-- Avec cette option, la buse commencera à découper à partir de la position actuelle de la machine.
-- Sans cette option, le processus commencera depuis l’origine prédéfinie (angle supérieur gauche).
-
-:::
-:::

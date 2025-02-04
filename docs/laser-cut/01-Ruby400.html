@@ -1,25 +1,26 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-<script src="../../../../../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/tabby.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/popper.min.js"></script>
-<script src="../../../../../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../../../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../../../../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
-<link href="../../../../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
-<link href="../../../../../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-html/tabby.min.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
+<link href="../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
 
-  <meta name="author" content="Paola">
-  <title>Tutoriel d’utilisation :</title>
+  <meta name="author" content="Paola VAZQUEZ">
+  <meta name="dcterms.date" content="2024-06-12">
+  <title>Découpe Laser</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../../../../../site_libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="../../../../../site_libs/revealjs/dist/reveal.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -33,11 +34,11 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../../../../../site_libs/revealjs/dist/theme/quarto-606e93a2ce42e6daabb767dd8d2b1fe9.css">
-  <link href="../../../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="../../../../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="../../../../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../../../../../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-606e93a2ce42e6daabb767dd8d2b1fe9.css">
+  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
   <style type="text/css">
     .reveal div.sourceCode {
       margin: 0;
@@ -131,13 +132,13 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Tutoriel d’utilisation :</h1>
-  <p class="subtitle">Impression 3D avec Flashforge Adventurer 5M Pro</p>
+  <h1 class="title">Découpe Laser</h1>
+  <p class="subtitle">Ruby Speedy 400</p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Paola 
+Paola VAZQUEZ 
 </div>
         <p class="quarto-title-affiliation">
             Université de Lorraine | ENSGSI
@@ -145,225 +146,115 @@ Paola
     </div>
 </div>
 
+  <p class="date">2024-06-12</p>
 </section>
-<section id="but-pédagogique-de-ce-tutoriel" class="title-slide slide level2 center">
-<h2>But pédagogique de ce tutoriel</h2>
-<ol type="1">
-<li>🧠 <strong>Connaisences</strong> :
-<ul>
-<li>Domaine de l’Impression 3D</li>
-</ul></li>
-<li>🔨 <strong>Savoir-faire</strong> :
-<ul>
-<li>Utiliser la machine d’impression 3D Flashforge Adventurer 5M Pro</li>
-</ul></li>
-<li>✍<strong>Compéténces:</strong> :
-<ul>
-<li>Pouvoir imprimer un objet au LF2L</li>
-</ul></li>
-</ol>
-</section>
-
 <section>
-<section id="comment-imprimer-en-3d" class="title-slide slide level1 agenda-slide center">
-<h1>Comment imprimer en 3D ?</h1>
+<section id="but-du-tutoriel" class="title-slide slide level1 agenda-slide center">
+<h1>But du Tutoriel</h1>
 <div class="agenda-heading">
 <p>Sommaire</p>
 </div>
 <div class="agenda">
 <ol>
 <li><div class="agenda-active">
-<p>Comment imprimer en 3D ?</p>
+<p>But du Tutoriel</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Vérifiez l’état de l’imprimante</p>
+<p>Comment allumer la machine</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Comment allumer l’imprimante</p>
+<p>Envoyer à graver et couper :</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
+<p>Comment nettoyer la machine</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
+<p>Nettoyage de la grille (avec un aspirateur) :</p>
 </div></li>
 </ol>
 </div>
 </section>
-<section id="comment-imprimer-en-3d-1" class="title-slide slide level2 center">
-<h2>Comment imprimer en 3D ?</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[35,68]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 34.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/1.webp" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 66.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/2.webp" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-<p>Il faut trois étapes:</p>
-<p><strong>1) Model CAO → 2) Processus de ‘Slicing’ → 3) Fichier <code>.Gcode</code></strong></p>
-</div>
-</div>
-</div>
-</section>
-
-<section id="modèle-cao" class="title-slide slide level2 center">
-<h2>Modèle CAO</h2>
-<div title="But">
-<div class="callout callout-tip callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>But</strong></p>
-</div>
-<div class="callout-content">
-<p><strong>Obtenir le modèle CAO utile pour l’impression 3D.</strong></p>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="obtention-dun-modèle-cao" class="slide level3">
-<h3>Obtention d’un modèle CAO</h3>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[40,60]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
-<p><strong>Logiciel de CAO</strong></p>
-<p>Il peut etre conçu à l’aide d’un logiciel de modélisation 3D</p>
-<ul>
-<li>Fusion 360</li>
-<li>Blender</li>
-<li>⚠️ <strong>Onshape</strong></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/3.webp" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
-<p><strong>Bibliothèques de modèles</strong></p>
-<p>Téléchargez-les depuis sites comme les suivantes:</p>
-<ul>
-<li><a href="https://www.thingiverse.com">Thingiverse</a></li>
-<li><a href="https://www.printables.com">Printables</a><br>
-</li>
-<li><a href="https://makerworld.com">MakerWorld</a></li>
-</ul>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/4.webp" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="obtention-dun-modèle-cao-onshape" class="slide level3">
-<h3>Obtention d’un modèle → CAO Onshape</h3>
-<p>Le but est d’obtenir le modèle CAO en fichier <code>.STL</code></p>
-</section>
-
-<section id="processus-de-slicing" class="title-slide slide level2 center">
-<h2>Processus de Slicing</h2>
-<div title="But">
-<div class="callout callout-tip callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>But</strong></p>
-</div>
-<div class="callout-content">
-<p><strong>Transformer le modèle <code>.STL</code> en un fichier machine <code>.GCODE</code></strong></p>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section id="section" class="slide level3">
-<h3></h3>
-<p>Ce model 3D doit etre transformer en fichier G-Code, avec tous les parametrages correctets de notre imprimante, on utilise donc un slicer compatible, comme OrcaSlicer.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/5.webp" class="quarto-figure quarto-figure-center" style="width:30.0%"></p>
-</figure>
-</div>
-<p>Pour un tutoriel plus en profondie, clické ici: lien</p>
-</section>
-
-<section id="section-1" class="title-slide slide level2 center">
-<h2></h2>
-<p>Enregistrez le fichier (format G-code) sur une clé USB compatible.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/6.webp" class="quarto-figure quarto-figure-center" style="width:30.0%"></p>
-</figure>
-</div>
-<p>Au LF2L, des clés USB sont mises à votre disposition à côté des imprimantes.</p>
+<section id="but-pédagogique-de-ce-tutorial" class="title-slide slide level2 center">
+<h2>But pédagogique de ce tutorial</h2>
+<ol type="1">
+<li>🧠 <strong>Connaisences</strong> : - Domaine de la découpe laser</li>
+<li>🔨 <strong>Savoir-faire</strong> : - Utiliser la découpeuse laser</li>
+<li>✍<strong>Compéténces:</strong> : - Être capable de découper un objet au LF2L</li>
+</ol>
 </section>
 </section>
 <section>
-<section id="vérifiez-létat-de-limprimante" class="title-slide slide level1 agenda-slide center">
-<h1>Vérifiez l’état de l’imprimante</h1>
+<section id="comment-allumer-la-machine" class="title-slide slide level1 agenda-slide center">
+<h1>Comment allumer la machine</h1>
 <div class="agenda-heading">
 <p>Sommaire</p>
 </div>
 <div class="agenda">
 <ol>
 <li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
+<p>But du Tutoriel</p>
 </div></li>
 <li><div class="agenda-active">
-<p>Vérifiez l’état de l’imprimante</p>
+<p>Comment allumer la machine</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Comment allumer l’imprimante</p>
+<p>Envoyer à graver et couper :</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
+<p>Comment nettoyer la machine</p>
 </div></li>
 <li><div class="agenda-inactive agenda-post-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
+<p>Nettoyage de la grille (avec un aspirateur) :</p>
 </div></li>
 </ol>
 </div>
 </section>
-<section id="section-2" class="title-slide slide level2 center">
+<section id="démarrage" class="title-slide slide level2 center">
+<h2>Démarrage</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ol type="1">
+<li><p>Tournez la clé pour démarrer la machine, en position “i”.</p></li>
+<li><p>Tournez à nouveau comme si vous démarriez une voiture (c’est un mouvement qui revient à la position de départ, comme un ressort).</p></li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/1.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="calibration" class="title-slide slide level2 center">
+<h2>Calibration</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/2.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>La machine commencera une série de calibrations et de vérifications. Un message “appareil pas prêt” apparaîtra. Il faut attendre quelques minutes. Il est important de ne pas toucher au capot pendant ce processus. Si vous le faites, la machine affichera une erreur et il faudra tout redémarrer.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section" class="title-slide slide level2 center">
 <h2></h2>
 <div>
 
@@ -371,14 +262,82 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Assurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression.</p>
+<p>Attendez jusqu’à ce que le message “la file d’attente est vide” apparaisse. À ce moment-là, vous pouvez soulever le capot.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/7.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/3.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="envoyer-à-graver-et-couper" class="title-slide slide level1 agenda-slide center">
+<h1>Envoyer à graver et couper :</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Comment allumer la machine</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Envoyer à graver et couper :</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Comment nettoyer la machine</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Nettoyage de la grille (avec un aspirateur) :</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="section-1" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Le fichier SVG est envoyé à la plateforme en ligne Ruby.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/39.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-2" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/40.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Les réglages nécessaires sont générés dans le site.</p>
 </div>
 </div>
 </div>
@@ -391,55 +350,24 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Configurez la découpe en faisant attention aux couleurs :</p>
+<ul>
+<li>Rouge : Découpe</li>
+<li>Noir : Gravure</li>
+</ul>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/8.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/41.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Nettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique.</p>
-</div>
 </div>
 </div>
 </section>
-</section>
-<section>
-<section id="comment-allumer-limprimante" class="title-slide slide level1 agenda-slide center">
-<h1>Comment allumer l’imprimante</h1>
-<div class="agenda-heading">
-<p>Sommaire</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Vérifiez l’état de l’imprimante</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Comment allumer l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
-</div></li>
-</ol>
-</div>
-</section>
+
 <section id="section-4" class="title-slide slide level2 center">
 <h2></h2>
 <div>
@@ -447,16 +375,15 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Vérifiez que l’imprimante est connectée à une prise électrique.</p>
-<p>Appuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/9.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/42.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Envoyer le fichier à la liste d’attente de la découpeuse laser.</p>
 </div>
 </div>
 </div>
@@ -470,12 +397,12 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Attendez que le système soit complètement initialisé avant de continuer.</p>
+<p>La machine doit être allumée. (retour à la rubrique allumer la machine)</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/10.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/43.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -485,44 +412,25 @@ Paola
 
 <section id="section-6" class="title-slide slide level2 center">
 <h2></h2>
-<p>L’imprimante est bien allumée quand ce écran est montrée <img data-src="../images/tuto-1/IMGforge/11.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</section>
-</section>
-<section>
-<section id="comment-charger-le-filament-si-aucun-filament-nest-présent" class="title-slide slide level1 agenda-slide center">
-<h1>Comment charger le filament (si aucun filament n’est présent)</h1>
-<div class="agenda-heading">
-<p>Sommaire</p>
+<div>
+
 </div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Vérifiez l’état de l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment allumer l’imprimante</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
-</div></li>
-</ol>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/44.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Ouvrez le capot.</p>
+</div>
+</div>
 </div>
 </section>
+
 <section id="section-7" class="title-slide slide level2 center">
 <h2></h2>
 <div>
@@ -531,12 +439,12 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Placez le filament à l’arrière de l’imprimante.</p>
+<p>Placez le matériau dans l’angle supérieur droit.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/12.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/45.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -551,26 +459,17 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Ouvrez la porte du haut</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/13.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/46.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Déplacez la tête de découpe vers une section où se trouve le matériau.</p>
 </div>
 </div>
-</section>
-
-<section id="placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté." class="title-slide slide level2 center">
-<h2>Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/14.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
 </div>
 </section>
 
@@ -582,26 +481,16 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.</p>
-<p>Choisissez l’option “Changer de Filament”.</p>
+<p>Appuyez simultanément sur les flèches haut et bas pour que la machine calibre la hauteur du matériau.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/15.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/47.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 </div>
-</div>
-</section>
-
-<section id="attendez-que-la-température-atteigne-220-c" class="title-slide slide level2 center">
-<h2>Attendez que la température atteigne 220 °C</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/16.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
 </div>
 </section>
 
@@ -612,29 +501,46 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/17.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/48.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Attention à sélectionner l’option “point d’accroche au laser” : - Avec cette option, la buse commencera à découper à partir de la position actuelle de la machine. - Sans cette option, le processus commencera depuis l’origine prédéfinie (angle supérieur gauche).</p>
 </div>
 </div>
 </div>
 </section>
-
-<section id="limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent." class="title-slide slide level2 center">
-<h2>L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/18.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
+</section>
+<section>
+<section id="comment-nettoyer-la-machine" class="title-slide slide level1 agenda-slide center">
+<h1>Comment nettoyer la machine</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Comment allumer la machine</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Envoyer à graver et couper :</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Comment nettoyer la machine</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Nettoyage de la grille (avec un aspirateur) :</p>
+</div></li>
+</ol>
 </div>
 </section>
-
 <section id="section-11" class="title-slide slide level2 center">
 <h2></h2>
 <div>
@@ -645,52 +551,30 @@ Paola
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/19.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/4.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Retirez le filament imprimé.</p>
+<p>Pour effectuer le nettoyage, il faut prendre en compte les éléments suivants :</p>
+<ul>
+<li>Manipuler avec précaution la lentille et le miroir.</li>
+<li>Les tenir avec la paume de la main pour éviter qu’ils ne tombent.</li>
+<li>Placer un morceau de serviette en dessous pour amortir une éventuelle chute.</li>
+<li>N’utiliser que les matériaux fournis par le fabmanager.</li>
+<li>Utiliser un tissu spécial pour le nettoyage, fourni avec la machine. Ce tissu ne doit être utilisé que sur un seul côté de chaque lentille.</li>
+<li>Le liquide de nettoyage est conçu par le fabricant et est compatible avec les optiques de la machine.</li>
+</ul>
 </div>
 </div>
 </div>
 </section>
+
+<section id="nettoyage-du-miroir" class="title-slide slide level2 center">
+<h2>Nettoyage du miroir</h2>
+<p>Manipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates.</p>
 </section>
-<section>
-<section id="comment-changer-le-filament-en-retirant-lancien-filament" class="title-slide slide level1 agenda-slide center">
-<h1>Comment changer le filament (en retirant l’ancien filament) :</h1>
-<div class="agenda-heading">
-<p>Sommaire</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Vérifiez l’état de l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment allumer l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
-</div></li>
-</ol>
-</div>
-</section>
+
 <section id="section-12" class="title-slide slide level2 center">
 <h2></h2>
 <div>
@@ -699,12 +583,12 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Ouvrez la porte du haut</p>
+<p>Dévissez les deux vis du miroir à la main.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/20.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/5.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -714,22 +598,43 @@ Paola
 
 <section id="section-13" class="title-slide slide level2 center">
 <h2></h2>
-<p>Retirez le tube blanc et coupez l’ancien filament à l’aide d’une pince</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/21.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/6.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
-<p>Remarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n’est pas le cas, demandez-les aux FabManagers.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Vérifiez les vis et assurez-vous que le miroir est bien sécurisé avant de le retirer.</p>
+</div>
+</div>
+</div>
 </section>
 
 <section id="section-14" class="title-slide slide level2 center">
 <h2></h2>
-<p>Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l’empêcher de se dérouler</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Retirez délicatement le miroir et placez-le dans un endroit sécurisé.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/22.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/7.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
+</div>
+</div>
+</div>
 </div>
 </section>
 
@@ -740,26 +645,17 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Placez le nouveau filament sur la base située à l’arrière de l’imprimante.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/23.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/8.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Prenez un bord du papier spécial.</p>
 </div>
 </div>
-</section>
-
-<section id="placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1" class="title-slide slide level2 center">
-<h2>Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/24.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
 </div>
 </section>
 
@@ -771,26 +667,16 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.</p>
-<p>Choisissez l’option “Changer de Filament” et “Démarrer”</p>
+<p>Pliez le papier plusieurs fois, en veillant à ne pas toucher les parties en contact avec le miroir.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/25.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/9.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 </div>
-</div>
-</section>
-
-<section id="attendez-que-la-température-atteigne-220-c-1" class="title-slide slide level2 center">
-<h2>Attendez que la température atteigne 220 °C</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/26.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
 </div>
 </section>
 
@@ -801,26 +687,17 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera.</p>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/27.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/10.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Appliquez une goutte de liquide spécial sur le miroir.</p>
 </div>
 </div>
-</section>
-
-<section id="limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus." class="title-slide slide level2 center">
-<h2>L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus.</h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/28.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
 </div>
 </section>
 
@@ -831,55 +708,20 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Tenez la paume de votre main en dessous pour garantir que le miroir ne tombe pas.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/29.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/11.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Retirez le filament imprimé.</p>
-</div>
 </div>
 </div>
 </section>
-</section>
-<section>
-<section id="comment-sélectionner-le-fichier-à-imprimer" class="title-slide slide level1 agenda-slide center">
-<h1>Comment sélectionner le fichier à imprimer</h1>
-<div class="agenda-heading">
-<p>Sommaire</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Vérifiez l’état de l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment allumer l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
-</div></li>
-</ol>
-</div>
-</section>
+
 <section id="section-19" class="title-slide slide level2 center">
 <h2></h2>
 <div>
@@ -890,12 +732,12 @@ Paola
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/30.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/12.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante.</p>
+<p>Avec le papier nettoyant, effectuez des mouvements circulaires doux, du centre vers l’extérieur.</p>
 </div>
 </div>
 </div>
@@ -908,15 +750,15 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Assurez-vous qu’il ne reste aucune trace de graisse.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/31.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/13.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB.</p>
 </div>
 </div>
 </div>
@@ -932,12 +774,12 @@ Paola
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/32.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/14.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau.</p>
+<p>Le liquide contient de l’alcool, attendez son évaporation complète.</p>
 </div>
 </div>
 </div>
@@ -950,60 +792,20 @@ Paola
 </div>
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Replacez le miroir en respectant son orientation (la partie plate doit être à l’intérieur du buzz).</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/33.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/15.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Appuyez sur le bouton “Imprimer” et confirmez votre sélection.</p>
-</div>
 </div>
 </div>
 </section>
 
-<section id="limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer." class="title-slide slide level2 center">
-<h2>L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.</h2>
-
-</section>
-</section>
-<section>
-<section id="comment-surveiller-limpression-initiale" class="title-slide slide level1 agenda-slide center">
-<h1>Comment surveiller l’impression initiale :</h1>
-<div class="agenda-heading">
-<p>Sommaire</p>
-</div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Vérifiez l’état de l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment allumer l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-post-active">
-<p>Retirer le modèle</p>
-</div></li>
-</ol>
-</div>
-</section>
 <section id="section-23" class="title-slide slide level2 center">
 <h2></h2>
 <div>
@@ -1014,15 +816,20 @@ Paola
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/34.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/16.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Observez l’impression de la première couche :</p>
+<p>Maintenez le miroir en place tout en resserrant les vis, sans trop forcer.</p>
 </div>
 </div>
 </div>
+</section>
+
+<section id="nettoyage-de-la-lentille" class="title-slide slide level2 center">
+<h2>Nettoyage de la lentille :</h2>
+<p>⚠️ Manipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates.</p>
 </section>
 
 <section id="section-24" class="title-slide slide level2 center">
@@ -1033,12 +840,12 @@ Paola
 <div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
-<p>Assurez-vous que le filament adhère correctement au plateau d’impression.</p>
+<p>Dévissez la vis rouge pour retirer la lentille noire.</p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/35.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/17.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -1048,50 +855,47 @@ Paola
 
 <section id="section-25" class="title-slide slide level2 center">
 <h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/36.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/18.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
-<p>En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres.</p>
-</section>
-</section>
-<section>
-<section id="retirer-le-modèle" class="title-slide slide level1 agenda-slide center">
-<h1>Retirer le modèle</h1>
-<div class="agenda-heading">
-<p>Sommaire</p>
 </div>
-<div class="agenda">
-<ol>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment imprimer en 3D ?</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Vérifiez l’état de l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment allumer l’imprimante</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment charger le filament (si aucun filament n’est présent)</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment changer le filament (en retirant l’ancien filament) :</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment sélectionner le fichier à imprimer</p>
-</div></li>
-<li><div class="agenda-inactive agenda-pre-active">
-<p>Comment surveiller l’impression initiale :</p>
-</div></li>
-<li><div class="agenda-active">
-<p>Retirer le modèle</p>
-</div></li>
-</ol>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Tenez la paume de votre main en dessous pour éviter que la lentille ne tombe.</p>
+</div>
+</div>
 </div>
 </section>
+
 <section id="section-26" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>La lentille comporte une flèche et la mention “TOP” indiquant sa position correcte.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/19.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-27" class="title-slide slide level2 center">
 <h2></h2>
 <div>
 
@@ -1101,35 +905,424 @@ Paola
 <div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/37.webp" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/20.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<p>Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage.</p>
+<p>Nettoyez les deux côtés de la lentille, en changeant de tissu à chaque fois.</p>
 </div>
 </div>
 </div>
-</section>
-
-<section id="section-27" class="title-slide slide level2 center">
-<h2></h2>
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/tuto-1/IMGforge/38.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
-</figure>
-</div>
-<p>Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut.</p>
 </section>
 
 <section id="section-28" class="title-slide slide level2 center">
 <h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Découpez un morceau de tissu propre.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/tuto-1/IMGforge/39.webp" class="quarto-figure quarto-figure-center" style="width:95.0%"></p>
+<p><img data-src="../images/tuto-1/IMGRuby/21.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
-<p>En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-29" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/22.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Pliez le tissu plusieurs fois.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-30" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Appliquez une goutte de liquide sur la lentille et répartissez-le avec la main.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/23.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-31" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/24.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Effectuez des mouvements circulaires doux, du centre vers l’extérieur.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-32" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Vérifiez sous la lumière pour s’assurer qu’il ne reste aucun résidu, empreinte ou trace de graisse.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/25.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-33" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/26.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Replacez la lentille et le miroir en respectant la bonne orientation (flèche et “TOP” sur la lentille).</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-34" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Serrez les vis sans forcer, juste assez pour maintenir la pièce en place.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/27.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="nettoyage-de-la-buse-nozzle" class="title-slide slide level2 center">
+<h2>Nettoyage de la buse (nozzle) :</h2>
+
+</section>
+
+<section id="section-35" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/28.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Dévissez la buse.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-36" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Appliquez de l’alcool isopropylique sur un morceau de tissu propre.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/29.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-37" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/30.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Nettoyez les résidus de résine et d’acrylique présents sur la buse.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-38" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Revissez la buse.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/31.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+</section>
+<section>
+<section id="nettoyage-de-la-grille-avec-un-aspirateur" class="title-slide slide level1 agenda-slide center">
+<h1>Nettoyage de la grille (avec un aspirateur) :</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Comment allumer la machine</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Envoyer à graver et couper :</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Comment nettoyer la machine</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Nettoyage de la grille (avec un aspirateur) :</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="section-39" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/32.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Dévissez les vis situées en diagonale (inférieure droite et supérieure gauche).</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-40" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Soulevez la grille et placez-la à côté de la machine.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/33.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-41" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/34.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Aspirez les résidus de matériau avec l’aspirateur.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-42" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Replacez la grille avec précaution.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/35.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-43" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/36.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Revissez les vis.</p>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-44" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>Remontez la base de la machine.</p>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/37.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="section-45" class="title-slide slide level2 center">
+<h2></h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[40,60]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/tuto-1/IMGRuby/38.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
+<p>Fermez le capot.</p>
+</div>
+</div>
+</div>
 
 
 <div class="reveal-header">
@@ -1140,7 +1333,7 @@ Paola
 <p> </p>
 </div>
 <div class="header-text title-text">
-<p>Impression 3D avec Flashforge Adventurer 5M Pro</p>
+<p>Ruby Speedy 400</p>
 </div>
 <div class="sb-title">
 <p> </p>
@@ -1152,24 +1345,24 @@ Paola
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../images/LF2L-Vertical.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>Tutorial 1: Comment utiliser une Imprimante 3D</p>
+<p>Tutorial 1: Comment utiliser la découpeuse laser</p>
 </div>
 </div></div>
 
   <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="../../../../../site_libs/revealjs/dist/reveal.js"></script>
+  <script src="../site_libs/revealjs/dist/reveal.js"></script>
   <!-- reveal.js plugins -->
-  <script src="../../../../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
+  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
+  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
-  <script src="../../../../../site_libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/search/search.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="../../../../../site_libs/revealjs/plugin/math/math.js"></script>
+  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
+  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
+  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
+  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
 
   <script>
