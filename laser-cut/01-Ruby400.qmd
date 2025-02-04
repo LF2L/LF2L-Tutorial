@@ -34,7 +34,7 @@ format:
 2. Tournez à nouveau comme si vous démarriez une voiture (c'est un mouvement qui revient à la position de départ, comme un ressort).
 :::
 :::{}
-![](../images/tuto-1/IMGRuby/1.png){width="80%" fig-align="center"}
+![](../images/tuto-1/IMGRuby/1.png){width="60%" fig-align="center"}
 :::
 :::
 
@@ -140,7 +140,7 @@ La machine doit être allumée. (retour à la rubrique allumer la machine)
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/43.png){width="95%" fig-align="center"}
+![](../images/tuto-1/IMGRuby/1.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
