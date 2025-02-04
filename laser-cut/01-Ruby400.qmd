@@ -22,18 +22,23 @@ format:
 
 
 
+
 # Comment allumer la machine
-##
-:::{layout="[40,60]"}
+
+## Démarrage
+
+:::{layout="[40,60]" }
 :::{}
-Tournez la clé pour démarrer la machine, en position "i".
-Puis, tournez à nouveau comme si vous démarriez une voiture (c'est un mouvement qui revient à la position de départ, comme un ressort).
+1. Tournez la clé pour démarrer la machine, en position "i".
+
+2. Tournez à nouveau comme si vous démarriez une voiture (c'est un mouvement qui revient à la position de départ, comme un ressort).
 :::
 :::{}
-![](../images/tuto-1/IMGRuby/1.png){width="95%" fig-align="center"}
+![](../images/tuto-1/IMGRuby/1.png){width="80%" fig-align="center"}
 :::
 :::
-## 
+
+## Calibration
 
 :::{layout="[40,60]"}
 :::{}
