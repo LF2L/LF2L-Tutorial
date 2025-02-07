@@ -1,6 +1,7 @@
 ---
 title: "Découpe Laser"
 subtitle: "Ruby Speedy 400"  
+image: "../images/tuto-1/IMGRuby/1.png" 
 email: "paola@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
