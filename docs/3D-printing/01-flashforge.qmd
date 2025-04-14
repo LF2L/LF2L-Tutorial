@@ -97,7 +97,7 @@ Ce model 3D doit etre transformer en fichier G-Code, avec tous les parametrages 
 ![](../images/tuto-1/IMGforge/5.webp){width="30%" fig-align="center"}
 
 
-Pour un tutoriel plus en profondie, clické ici: lien 
+Pour un tutoriel plus en profondie, clické ici: [Introduction à OrcaSlicer](02-OrcaSlicer.qmd)
 
 ##
 

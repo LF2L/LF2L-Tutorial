@@ -1,6 +1,7 @@
 ---
 title: "Découpe Laser"
 subtitle: "Ruby Speedy 400"  
+image: "figures/1.png" 
 email: "paola@univ-lorraine.fr"
 institute: "Université de Lorraine | ENSGSI"
 author: 
@@ -34,7 +35,7 @@ format:
 2. Tournez à nouveau comme si vous démarriez une voiture (c'est un mouvement qui revient à la position de départ, comme un ressort).
 :::
 :::{}
-![](../images/tuto-1/IMGRuby/1.png){width="80%" fig-align="center"}
+![](figures/1.png){width="60%" fig-align="center"} 
 :::
 :::
 
@@ -43,7 +44,7 @@ format:
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/2.png){width="95%" fig-align="center"}
+![](figures/2.png){width="95%" fig-align="center"}
 
 
 :::
@@ -65,7 +66,7 @@ Attendez jusqu'à ce que le message "la file d’attente est vide" apparaisse. �
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/3.png){width="95%" fig-align="center"}
+![](figures/3.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -83,7 +84,7 @@ Le fichier SVG est envoyé à la plateforme en ligne Ruby.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/39.png){width="95%" fig-align="center"}
+![](figures/39.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -91,7 +92,7 @@ Le fichier SVG est envoyé à la plateforme en ligne Ruby.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/40.png){width="95%" fig-align="center"}
+![](figures/40.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -113,7 +114,7 @@ Configurez la découpe en faisant attention aux couleurs :
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/41.png){width="95%" fig-align="center"}
+![](figures/41.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -121,7 +122,7 @@ Configurez la découpe en faisant attention aux couleurs :
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/42.png){width="95%" fig-align="center"}
+![](figures/42.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -140,7 +141,7 @@ La machine doit être allumée. (retour à la rubrique allumer la machine)
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/43.png){width="95%" fig-align="center"}
+![](figures/1.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -148,7 +149,7 @@ La machine doit être allumée. (retour à la rubrique allumer la machine)
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/44.png){width="95%" fig-align="center"}
+![](figures/44.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -167,7 +168,7 @@ Placez le matériau dans l’angle supérieur droit.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/45.png){width="95%" fig-align="center"}
+![](figures/45.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -175,7 +176,7 @@ Placez le matériau dans l’angle supérieur droit.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/46.png){width="95%" fig-align="center"}
+![](figures/46.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -194,7 +195,7 @@ Appuyez simultanément sur les flèches haut et bas pour que la machine calibre 
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/47.png){width="95%" fig-align="center"}
+![](figures/47.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -202,7 +203,7 @@ Appuyez simultanément sur les flèches haut et bas pour que la machine calibre 
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/48.png){width="95%" fig-align="center"}
+![](figures/48.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -228,7 +229,7 @@ Attention à sélectionner l’option "point d’accroche au laser" :
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/4.png){width="95%" fig-align="center"}
+![](figures/4.png){width="95%" fig-align="center"}
 
 
 :::
@@ -260,7 +261,7 @@ Dévissez les deux vis du miroir à la main.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/5.png){width="95%" fig-align="center"}
+![](figures/5.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -269,7 +270,7 @@ Dévissez les deux vis du miroir à la main.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/6.png){width="95%" fig-align="center"}
+![](figures/6.png){width="95%" fig-align="center"}
 
 
 :::
@@ -290,7 +291,7 @@ Retirez délicatement le miroir et placez-le dans un endroit sécurisé.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/7.png){width="95%" fig-align="center"}
+![](figures/7.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -299,7 +300,7 @@ Retirez délicatement le miroir et placez-le dans un endroit sécurisé.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/8.png){width="95%" fig-align="center"}
+![](figures/8.png){width="95%" fig-align="center"}
 
 
 :::
@@ -319,7 +320,7 @@ Pliez le papier plusieurs fois, en veillant à ne pas toucher les parties en con
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/9.png){width="95%" fig-align="center"}
+![](figures/9.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -328,7 +329,7 @@ Pliez le papier plusieurs fois, en veillant à ne pas toucher les parties en con
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/10.png){width="95%" fig-align="center"}
+![](figures/10.png){width="95%" fig-align="center"}
 
 
 :::
@@ -348,7 +349,7 @@ Tenez la paume de votre main en dessous pour garantir que le miroir ne tombe pas
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/11.png){width="95%" fig-align="center"}
+![](figures/11.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -357,7 +358,7 @@ Tenez la paume de votre main en dessous pour garantir que le miroir ne tombe pas
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/12.png){width="95%" fig-align="center"}
+![](figures/12.png){width="95%" fig-align="center"}
 
 
 :::
@@ -378,7 +379,7 @@ Assurez-vous qu’il ne reste aucune trace de graisse.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/13.png){width="95%" fig-align="center"}
+![](figures/13.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -387,7 +388,7 @@ Assurez-vous qu’il ne reste aucune trace de graisse.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/14.png){width="95%" fig-align="center"}
+![](figures/14.png){width="95%" fig-align="center"}
 
 
 :::
@@ -407,7 +408,7 @@ Replacez le miroir en respectant son orientation (la partie plate doit être à 
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/15.png){width="95%" fig-align="center"}
+![](figures/15.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -416,7 +417,7 @@ Replacez le miroir en respectant son orientation (la partie plate doit être à 
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/16.png){width="95%" fig-align="center"}
+![](figures/16.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -438,7 +439,7 @@ Dévissez la vis rouge pour retirer la lentille noire.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/17.png){width="95%" fig-align="center"}
+![](figures/17.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -447,7 +448,7 @@ Dévissez la vis rouge pour retirer la lentille noire.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/18.png){width="95%" fig-align="center"}
+![](figures/18.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -466,7 +467,7 @@ La lentille comporte une flèche et la mention "TOP" indiquant sa position corre
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/19.png){width="95%" fig-align="center"}
+![](figures/19.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -475,7 +476,7 @@ La lentille comporte une flèche et la mention "TOP" indiquant sa position corre
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/20.png){width="95%" fig-align="center"}
+![](figures/20.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -494,7 +495,7 @@ Découpez un morceau de tissu propre.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/21.png){width="95%" fig-align="center"}
+![](figures/21.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -503,7 +504,7 @@ Découpez un morceau de tissu propre.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/22.png){width="95%" fig-align="center"}
+![](figures/22.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -522,7 +523,7 @@ Appliquez une goutte de liquide sur la lentille et répartissez-le avec la main.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/23.png){width="95%" fig-align="center"}
+![](figures/23.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -531,7 +532,7 @@ Appliquez une goutte de liquide sur la lentille et répartissez-le avec la main.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/24.png){width="95%" fig-align="center"}
+![](figures/24.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -550,7 +551,7 @@ Vérifiez sous la lumière pour s’assurer qu’il ne reste aucun résidu, empr
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/25.png){width="95%" fig-align="center"}
+![](figures/25.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -559,7 +560,7 @@ Vérifiez sous la lumière pour s’assurer qu’il ne reste aucun résidu, empr
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/26.png){width="95%" fig-align="center"}
+![](figures/26.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -580,7 +581,7 @@ Serrez les vis sans forcer, juste assez pour maintenir la pièce en place.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/27.png){width="95%" fig-align="center"}
+![](figures/27.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -591,7 +592,7 @@ Serrez les vis sans forcer, juste assez pour maintenir la pièce en place.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/28.png){width="95%" fig-align="center"}
+![](figures/28.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -612,7 +613,7 @@ Appliquez de l’alcool isopropylique sur un morceau de tissu propre.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/29.png){width="95%" fig-align="center"}
+![](figures/29.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -621,7 +622,7 @@ Appliquez de l’alcool isopropylique sur un morceau de tissu propre.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/30.png){width="95%" fig-align="center"}
+![](figures/30.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -642,7 +643,7 @@ Revissez la buse.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/31.png){width="95%" fig-align="center"}
+![](figures/31.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -653,7 +654,7 @@ Revissez la buse.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/32.png){width="95%" fig-align="center"}
+![](figures/32.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -674,7 +675,7 @@ Soulevez la grille et placez-la à côté de la machine.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/33.png){width="95%" fig-align="center"}
+![](figures/33.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -682,7 +683,7 @@ Soulevez la grille et placez-la à côté de la machine.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/34.png){width="95%" fig-align="center"}
+![](figures/34.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -703,7 +704,7 @@ Replacez la grille avec précaution.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/35.png){width="95%" fig-align="center"}
+![](figures/35.png){width="95%" fig-align="center"}
 :::
 :::
 
@@ -712,7 +713,7 @@ Replacez la grille avec précaution.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/36.png){width="95%" fig-align="center"}
+![](figures/36.png){width="95%" fig-align="center"}
 
 :::
 :::{}
@@ -733,7 +734,7 @@ Remontez la base de la machine.
 :::
 
 :::{}
-![](../images/tuto-1/IMGRuby/37.png){width="95%" fig-align="center"}
+![](figures/37.png){width="95%" fig-align="center"}
 :::
 :::
 ## 
@@ -741,7 +742,7 @@ Remontez la base de la machine.
 :::{layout="[40,60]"}
 :::{}
 
-![](../images/tuto-1/IMGRuby/38.png){width="95%" fig-align="center"}
+![](figures/38.png){width="95%" fig-align="center"}
 
 :::
 :::{}
