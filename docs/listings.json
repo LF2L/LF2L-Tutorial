@@ -5,7 +5,9 @@
       "/3D-printing/01-flashforge.html",
       "/3D-printing/02-OrcaSlicer.html",
       "/3D-printing/00-introduction.html",
-      "/laser-cut/01-Ruby400.html"
+      "/laser-cut/01-Ruby400.html",
+      "/electronics/00-Arduino.html",
+      "/electronics/01-ArduinoROMEO.html"
     ]
   }
 ]
