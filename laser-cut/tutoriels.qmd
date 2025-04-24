@@ -1,0 +1,21 @@
+---
+title: "Tutoriels"
+subtitle: "Premiers pas"
+date: today
+date-modified: today
+format: html
+---
+
+
+# liste de tutoriels
+
+## Introduction à l'Impression 3D
+
+```{=html}
+<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides/01-Ruby400.html"></iframe>
+```
+
+## Comment découper depuis Onshape
+```
+
+## Comment découper depuis Inkscape

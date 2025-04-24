@@ -1,0 +1,35 @@
+email: "paol@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola Vazquez"
+link-citations: true
+date: today
+date-format: long
+date-modified: today
+format:
+  revealjs:
+    slide-level: 3
+    slide-number: c/t
+    controls: true
+    transition: none
+    #margin: 10
+    width: 1600
+    height: 900
+    theme: [default, ../../assets/LF2L.scss]
+    logo: "../../images/LF2L-Vertical.png"
+    #embed-resources: false
+    echo: false
+    pdf-separate-fragments: true
+    toc: true
+    toc-title: But de ce tutoriel
+    toc-depth: 1
+    center: false
+    number-sections: false
+    fig-align: center
+    code-copy: true        
+    #header-logo: "images/UL.svg"    
+    #subtitle-as-header: true
+    sc-sb-title: false
+    chalkboard: false
+    subtitle-as-header: true
+    auto-stretch: false  

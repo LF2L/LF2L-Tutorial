@@ -1,38 +1,62 @@
 project:
   type: website
   output-dir: docs
+  preview: 
+    port: 4040
 
-format: 
-  revealjs:
-    slide-level: 3
-    slide-number: c/t
-    controls: true
-    transition: none
-    #margin: 10
-    width: 1600
-    height: 900
-    theme: [default, assets/LF2L.scss]
-    logo: "../images/LF2L-Vertical.png"
-    #embed-resources: false
-    echo: false
-    pdf-separate-fragments: true
-    #toc: true
-    #toc-title: Agenda for today
-    #toc-depth: 1
-    center: false
-    number-sections: false
-    fig-align: center
-    code-copy: true        
-    #header-logo: "images/UL.svg"    
-    #subtitle-as-header: true
-    sc-sb-title: false
-    chalkboard: false
-    subtitle-as-header: true
-    auto-stretch: false  
 
-filters:
-  - reveal-header
-  - reveal-auto-agenda
-auto-agenda:
-  bullets: numbered
-  heading: Sommaire
+
+website:
+  title: "Tutoriels LF2L"
+  site-url: ""
+  repo-url: "https://github.com/fabbiocrux/LF2L-Tutorial" 
+  search:
+    type: overlay  
+  page-footer:
+    left: |
+      Développé par :
+      [![](images/LF2L-Vertical.png){fig-alt="LF2L" width=65px}](https://lf2l.fr/)
+    center:
+      - text: "Lorraine Fab Living Lab"
+  navbar:
+    background: light
+    logo: images/LF2L-Vertical.png
+    logo-alt: "Lorraine Fab Living Lab"
+    left:
+      - href: index.qmd
+        text: Home
+    tools:
+      - icon: github
+        href: https://github.com/LF2L/LF2L-Tutorial
+        text: GitHub
+  sidebar:
+      style: "docked"
+      search: true
+      
+      contents:
+        - section: "Impression 3D"
+          contents:                
+            - printing/theorie.qmd
+            - printing/tutoriels.qmd
+        - section: "Découpe laser"
+          contents:                        
+            - laser-cut/theorie.qmd
+            - laser-cut/tutoriels.qmd
+        - section: "Electronique & controle"    
+          contents:                
+            - electronics/theorie.qmd
+            - electronics/tutoriels.qmd
+
+  page-navigation: true
+  back-to-top-navigation: true
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: assets/LF2L.scss
+    toc: true
+    lang: fr
+
+license: CC BY-SA

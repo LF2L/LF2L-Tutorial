@@ -1,42 +1,9 @@
 ---
-title: "Listing of tutorials"
-format:
-  html:
-    toc: true
-
-listing:
-  - id: printing
-    contents: "3D-printing/*.qmd"
-    max-items: 3
-    sort: "date desc"
-    type: grid
-    categories: false
-  - id: laser
-    contents: "laser-cut/*.qmd"
-    max-items: 3
-    sort: "date desc"
-    type: grid
-    categories: false
-  - id: electronics
-    contents: "electronics/*.qmd"
-    max-items: 3
-    sort: "date desc"
-    type: grid
-    categories: false
-  
+title: "Tutoriels au Lorraine Fab Living labs"
+subtitle: "Premiers pas"
+date: today
+date-modified: today
+format: html
 ---
 
-# Tutoriales sur l'impression 3D
-
-::: {#printing}
-:::
-
-# Tutoriales Decoupe laser
-
-::: {#laser}
-:::
-
-# Tutoriales Electronique
-
-::: {#electronics}
-:::
+# Esto es index

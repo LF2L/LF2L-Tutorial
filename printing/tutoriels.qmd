@@ -1,0 +1,31 @@
+---
+title: "Tutoriels"
+subtitle: "Premiers pas"
+date: today
+date-modified: today
+format: html
+---
+
+
+# liste de tutorielsss
+
+## Introduction à l'Impression 3D
+
+```{=html}
+<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides/00-introduction.html"></iframe>
+```
+
+
+## Comment imprimer sur la Flashfoge
+
+```{=html}
+<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides/01-flashforge.html"></iframe>
+```
+
+## Comment maîtriser le processus de slicing avec orcaSlicer?
+
+```{=html}
+<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides/02-OrcaSlicer.html"></iframe>
+```
+
+
