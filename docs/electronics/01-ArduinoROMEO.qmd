@@ -1,0 +1,106 @@
+---
+title: "Arduino : Contrôler un moteur DC avec une carte Romeo"
+subtitle: "[Liste de tutoriels](/)"  
+email: "xxx@univ-lorraine.fr"
+institute: "Université de Lorraine | ENSGSI"
+author: 
+  - "Paola"
+date: 06-12-2024
+
+format:
+  revealjs:
+    footer: 'Tutoriel 3: Utilisation d’un moteur DC avec la carte Romeo'
+    header: 'Arduino & Moteurs'
+---
+
+## But pédagogique de ce tutoriel
+
+1. 🧠 **Connaissances** : 
+   - Comprendre le fonctionnement d’un moteur DC et d’un pont en H (H-bridge)
+
+2. 🔧 **Savoir-faire** : 
+   - Contrôler le sens et la vitesse d’un moteur DC avec PWM
+
+3. ✍ **Compétences** : 
+   - Intégrer un moteur DC dans un projet Arduino avec carte Romeo
+
+
+# Matériel Nécessaire
+
+:::{layout="[35,68]"}
+:::{}
+| Élément                        | Qté |
+|-------------------------------|-----|
+| Carte Romeo (DFRobot)         | 1   |
+| Motoréducteur RS PRO DC       | 1   |
+| Alimentation externe 12V DC   | 1   |
+| Câbles de connexion           | ~4  |
+| PC avec Arduino IDE           | 1   |
+:::
+
+:::{}
+![](figures/romeo-motor.png){width="100%" fig-align="center"}
+:::
+:::
+
+
+# Schéma de Connexion
+
+## Connexion du moteur
+
+:::{layout="[50,50]"}
+:::{}
+
+- Moteur → Borniers **M1** de la carte Romeo  
+- Alimentation 12V → **VIN** et **GND** de la Romeo  
+- USB → pour programmer la carte  
+- Le sens de rotation dépend du câblage M1
+
+::: {.callout-tip}
+🔁 Inverser les fils M1 si le sens de rotation est inversé
+:::
+:::
+
+::: {}
+![](figures/motor-conn.png){width="100%" fig-align="center"}
+:::
+:::
+
+
+# Code Arduino
+## Contrôle de la vitesse et du sens
+
+```cpp
+// Contrôle d’un moteur DC via la carte Romeo
+
+const int IN1 = 4;  // Contrôle du sens
+const int IN2 = 5;  
+const int ENA = 6;  // Vitesse via PWM
+
+void setup() {
+  pinMode(IN1, OUTPUT);
+  pinMode(IN2, OUTPUT);
+  pinMode(ENA, OUTPUT);
+}
+
+void loop() {
+  // Tourne dans un sens
+  digitalWrite(IN1, HIGH);
+  digitalWrite(IN2, LOW);
+  analogWrite(ENA, 150); // Vitesse moyenne (0–255)
+  delay(2000);
+
+  // Arrêt
+  analogWrite(ENA, 0);
+  delay(1000);
+
+  // Sens inverse
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, HIGH);
+  analogWrite(ENA, 200);
+  delay(2000);
+
+  // Arrêt
+  analogWrite(ENA, 0);
+  delay(2000);
+}

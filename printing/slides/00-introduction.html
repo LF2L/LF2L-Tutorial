@@ -6,21 +6,16 @@
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<<<<<<<< HEAD:docs/electronics/slides/00-Arduino.html
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.6.42">
-========
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
 <link href="../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
->>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e:docs/docs/electronics/00-Arduino.html
 
-  <meta name="author" content="Paola Vazquez">
-  <meta name="dcterms.date" content="2025-04-24">
-  <title>Tutoriels LF2L – Arduino : Installation et projet de base</title>
+  <meta name="author" content="Paola">
+  <meta name="dcterms.date" content="2024-06-12">
+  <title>Impression 3D</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -39,11 +34,7 @@
       vertical-align: middle;
     }
   </style>
-<<<<<<<< HEAD:docs/electronics/slides/00-Arduino.html
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-a6202e1f26bb36390bb0c49e68ee4752.css">
-========
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-606e93a2ce42e6daabb767dd8d2b1fe9.css">
->>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e:docs/docs/electronics/00-Arduino.html
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -141,13 +132,13 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Arduino : Installation et projet de base</h1>
+  <h1 class="title">Impression 3D</h1>
   <p class="subtitle"><a href="../..">Liste de tutoriels</a></p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Paola Vazquez 
+Paola 
 </div>
         <p class="quarto-title-affiliation">
             Université de Lorraine | ENSGSI
@@ -155,62 +146,64 @@ Paola Vazquez
     </div>
 </div>
 
-  <p class="date">April 24, 2025</p>
-</section><section id="TOC">
-<nav role="doc-toc"> 
-<h2 id="toc-title">But de ce tutoriel</h2>
-<ul>
-<li><a href="#/installation-de-lide-arduino" id="/toc-installation-de-lide-arduino">Installation de l’IDE Arduino</a></li>
-<li><a href="#/pilotes-et-bibliothèques-nécessaires" id="/toc-pilotes-et-bibliothèques-nécessaires">Pilotes et bibliothèques nécessaires</a></li>
-<li><a href="#/schéma-de-connexion" id="/toc-schéma-de-connexion">Schéma de connexion</a></li>
-<li><a href="#/code-arduino" id="/toc-code-arduino">Code Arduino</a></li>
-</ul>
-</nav>
+  <p class="date">2024-06-12</p>
 </section>
-<section id="but-pédagogique-de-ce-tutoriel" class="title-slide slide level2 center">
-<h2>But pédagogique de ce tutoriel</h2>
+<section>
+<section id="but-du-tutoriel" class="title-slide slide level1 agenda-slide center">
+<h1>But du Tutoriel</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Comment imprimer en 3D ?</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Problèmes fréquents et solutions</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>À vous de jouer !</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="but-pédagogique-de-ce-tutorial" class="title-slide slide level2 center">
+<h2>But pédagogique de ce tutorial</h2>
 <ol type="1">
-<li>🧠 <strong>Connaissances</strong> :
+<li>🧠 <strong>Connaisences</strong> :
 <ul>
-<li>Comprendre le fonctionnement d’une carte Arduino</li>
+<li>Domaine de l’Impression 3D</li>
 </ul></li>
-<li>🔧 <strong>Savoir-faire</strong> :
+<li>🔨 <strong>Savoir-faire</strong> :
 <ul>
-<li>Écrire, téléverser et tester un programme sur Arduino</li>
+<li>Utiliser les machines d’impression 3D</li>
 </ul></li>
-<li>✍ <strong>Compétences</strong> :
+<li>✍<strong>Compéténces:</strong> :
 <ul>
-<li>Réaliser un projet avec LED, bouton, servo et moteurs</li>
+<li>Pouvoir imprimer un objet au LF2L</li>
 </ul></li>
 </ol>
 </section>
 
-<section>
-<section id="installation-de-lide-arduino" class="title-slide slide level1 center">
-<h1>Installation de l’IDE Arduino</h1>
-
-</section>
-<section id="installation-de-lide-arduino-1" class="title-slide slide level2 center">
-<h2>Installation de l’IDE Arduino</h2>
+<section id="quest-ce-que-limpression-3d" class="title-slide slide level2 center">
+<h2>Qu’est-ce que l’impression 3D ?</h2>
 <div>
 
 </div>
-<div class="quarto-layout-panel" data-layout="[60,40]">
+<div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<ol type="1">
-<li>Aller sur <a href="https://arduino.cc/software">arduino.cc/software</a><br>
-</li>
-<li>Télécharger et installer pour Windows, Mac ou Linux<br>
-</li>
-<li>Ouvrir l’IDE après installation<br>
-</li>
-</ol>
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<p>L’impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d’être envoyé à la machine.</p>
+<p>Contrairement à d’autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle.</p>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="figures/7.png" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -218,135 +211,46 @@ Paola Vazquez
 </div>
 </section>
 
-<section id="connexion-de-la-carte-arduino" class="title-slide slide level2 center">
-<h2>Connexion de la carte Arduino</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[50,50]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<ul>
-<li>Branchez la carte avec un câble USB<br>
-</li>
-<li>Dans l’IDE :
-<ul>
-<li><strong>Outils &gt; Type de carte &gt; Arduino Nano</strong><br>
-</li>
-<li><strong>Outils &gt; Port &gt; COM3</strong> <em>(ou selon le système)</em></li>
-</ul></li>
-</ul>
-<div class="callout callout-note callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Note</strong></p>
-</div>
-<div class="callout-content">
-<p>💡 Sous Windows, utilisez le <strong>Gestionnaire de périphériques</strong> pour identifier le port.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/7.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-</section>
-<section>
-<section id="pilotes-et-bibliothèques-nécessaires" class="title-slide slide level1 center">
-<h1>Pilotes et bibliothèques nécessaires</h1>
+<section id="technologies-et-matériaux-principaux" class="title-slide slide level2 center">
+<h2>Technologies et matériaux principaux</h2>
 
 </section>
-<section id="pilote-ch340-pour-clones" class="title-slide slide level2 center">
-<h2>Pilote CH340 (pour clones)</h2>
+<section id="technologie-courante" class="slide level3">
+<h3>Technologie courante</h3>
+<p>La plus utilisée est la <strong>modélisation par dépôt fondu (FDM)</strong>, où un filament de plastique est chauffé et extrudé pour former les couches de l’objet.</p>
+</section>
+<section id="matériau-le-plus-utilisé-pla" class="slide level3">
+<h3>Matériau le plus utilisé : PLA</h3>
+<p>Le PLA (acide polylactique) est économique, facile à utiliser et moins toxique que d’autres matériaux. Cependant, il présente des limitations :</p>
 <ul>
-<li><a href="https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip">Télécharger ici (Windows)</a><br>
+<li><strong>Non adapté</strong> pour un contact constant avec des aliments.<br>
 </li>
-<li><a href="https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver">Télécharger pour Mac</a></li>
+<li><strong>Non recommandé</strong> dans des environnements humides ou chauds.</li>
 </ul>
 </section>
 
-<section id="ajouter-des-bibliothèques-dans-lide" class="title-slide slide level2 center">
-<h2>Ajouter des bibliothèques dans l’IDE</h2>
-<ol type="1">
-<li>Menu : <strong>Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…</strong><br>
-</li>
-<li>Rechercher et installer <strong>Servo</strong></li>
-</ol>
-</section>
-
-<section id="matériel-nécessaire" class="title-slide slide level2 center">
-<h2>Matériel Nécessaire</h2>
+<section id="applications-du-pla" class="title-slide slide level2 center">
+<h2>Applications du PLA</h2>
 <div>
 
 </div>
-<div class="quarto-layout-panel" data-layout="[35,68]">
+<div class="quarto-layout-panel" data-layout="[40,60]">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 34.0%;justify-content: center;">
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th style="text-align: left;">Élément</th>
-<th style="text-align: left;">Qté</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Arduino Nano</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Câble USB</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Breadboard</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Câbles Dupont</td>
-<td style="text-align: left;">~20</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">LED + Résistance</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Bouton + 10kΩ</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Servo SG90</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Moteur DC</td>
-<td style="text-align: left;">2</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Module L298N</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Batterie (2x 3.7V)</td>
-<td style="text-align: left;">1</td>
-</tr>
-</tbody>
-</table>
+<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: flex-start;">
+<ul>
+<li>Objets décoratifs ou artistiques.<br>
+</li>
+<li>Prototypes pour des projets personnels.<br>
+</li>
+<li>Organisateurs et accessoires du quotidien.<br>
+</li>
+<li>Pièces de rechange non structurelles.</li>
+</ul>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 66.0%;justify-content: center;">
+<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="figures/7.png" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -355,44 +259,291 @@ Paola Vazquez
 </section>
 </section>
 <section>
-<section id="schéma-de-connexion" class="title-slide slide level1 center">
-<h1>Schéma de connexion</h1>
-
+<section id="comment-imprimer-en-3d" class="title-slide slide level1 agenda-slide center">
+<h1>Comment imprimer en 3D ?</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Comment imprimer en 3D ?</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Problèmes fréquents et solutions</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>À vous de jouer !</p>
+</div></li>
+</ol>
+</div>
 </section>
-<section id="section" class="title-slide slide level2 center">
-<h2></h2>
-<p>LED<br>
-- + → Résistance → D2<br>
-- – → GND</p>
-<p>Bouton<br>
-- 1 patte → 5V<br>
-- 1 patte → D3 + résistance → GND</p>
-<p>Servo SG90<br>
-- Marron → GND<br>
-- Rouge → 5V<br>
-- Orange → D9</p>
-<p>L298N<br>
-- IN1 → D5<br>
-- IN2 → D6<br>
-- GND → GND Arduino<br>
-- Alim → 9V batterie</p>
+<section id="pas-à-suivre-pour-limpression" class="title-slide slide level2 center">
+<h2>Pas à suivre pour l’impression:</h2>
+<p>Le processus d’impression suit ces étapes de base :</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
+<ol type="1">
+<li><strong>Obtenir un modèle 3D:</strong> Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="pas-à-suivre-pour-limpression-1" class="title-slide slide level2 center">
+<h2>Pas à suivre pour l’impression:</h2>
+<p>Le processus d’impression suit ces étapes de base :</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
+<ol type="1">
+<li><strong>Obtenir un modèle 3D:</strong> Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.<br>
+</li>
+<li><strong>Préparer le fichier :</strong> Utilisez un programme <em>slicer</em> (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.<br>
+</li>
+<li><strong>Transférer le fichier :</strong> Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.<br>
+</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="pas-à-suivre-pour-limpression-2" class="title-slide slide level2 center">
+<h2>Pas à suivre pour l’impression:</h2>
+<p>Le processus d’impression suit ces étapes de base :</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
+<ol type="1">
+<li><strong>Obtenir un modèle 3D:</strong> Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.<br>
+</li>
+<li><strong>Préparer le fichier :</strong> Utilisez un programme <em>slicer</em> (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.<br>
+</li>
+<li><strong>Transférer le fichier :</strong> Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.<br>
+</li>
+<li><strong>Calibrer :</strong> Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.<br>
+</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="pas-à-suivre-pour-limpression-3" class="title-slide slide level2 center">
+<h2>Pas à suivre pour l’impression:</h2>
+<p>Le processus d’impression suit ces étapes de base :</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
+<ol type="1">
+<li><strong>Obtenir un modèle 3D:</strong> Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.<br>
+</li>
+<li><strong>Préparer le fichier :</strong> Utilisez un programme <em>slicer</em> (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.<br>
+</li>
+<li><strong>Transférer le fichier :</strong> Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.<br>
+</li>
+<li><strong>Calibrer :</strong> Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.<br>
+</li>
+<li><strong>Placer le filament :</strong> Assurez-vous qu’il soit sec et bien stocké.<br>
+</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="pas-à-suivre-pour-limpression-4" class="title-slide slide level2 center">
+<h2>Pas à suivre pour l’impression:</h2>
+<p>Le processus d’impression suit ces étapes de base :</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
+<ol type="1">
+<li><strong>Obtenir un modèle 3D:</strong> Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.<br>
+</li>
+<li><strong>Préparer le fichier :</strong> Utilisez un programme <em>slicer</em> (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.<br>
+</li>
+<li><strong>Transférer le fichier :</strong> Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.<br>
+</li>
+<li><strong>Calibrer :</strong> Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.<br>
+</li>
+<li><strong>Placer le filament :</strong> Assurez-vous qu’il soit sec et bien stocké.<br>
+</li>
+<li><strong>Imprimer et superviser :</strong> Surveillez le processus pour détecter les erreurs à temps.</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="pas-à-suivre-pour-limpression-5" class="title-slide slide level2 center">
+<h2>Pas à suivre pour l’impression:</h2>
+<p>Le processus d’impression suit ces étapes de base :</p>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[80,40]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 66.7%;justify-content: flex-start;">
+<ol type="1">
+<li><strong>Obtenir un modèle 3D:</strong> Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.<br>
+</li>
+<li><strong>Préparer le fichier :</strong> Utilisez un programme <em>slicer</em> (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.<br>
+</li>
+<li><strong>Transférer le fichier :</strong> Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.<br>
+</li>
+<li><strong>Calibrer :</strong> Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.<br>
+</li>
+<li><strong>Placer le filament :</strong> Assurez-vous qu’il soit sec et bien stocké.<br>
+</li>
+<li><strong>Imprimer et superviser :</strong> Surveillez le processus pour détecter les erreurs à temps.</li>
+</ol>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/image-test.jpg" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
 </section>
 </section>
 <section>
-<section id="code-arduino" class="title-slide slide level1 center">
-<h1>Code Arduino</h1>
-
+<section id="problèmes-fréquents-et-solutions" class="title-slide slide level1 agenda-slide center">
+<h1>Problèmes fréquents et solutions</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Comment imprimer en 3D ?</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Problèmes fréquents et solutions</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>À vous de jouer !</p>
+</div></li>
+</ol>
+</div>
 </section>
-<section id="section-1" class="title-slide slide level2 center">
-<h2></h2>
-<p>```cpp #include &lt;Servo.h&gt;</p>
-<p>Servo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;</p>
-<p>void setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }</p>
-<p>void loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }</p>
+<section id="mauvaise-adhérence-de-la-première-couche" class="title-slide slide level2 center">
+<h2>1. <strong>Mauvaise adhérence de la première couche :</strong></h2>
+<ul>
+<li>Nivelez et nettoyez le plateau d’impression.<br>
+</li>
+<li>Utilisez de la colle en bâton ou un ruban bleu pour améliorer l’adhésion.</li>
+</ul>
+</section>
+
+<section id="bouchage-du-filament" class="title-slide slide level2 center">
+<h2>2. <strong>Bouchage du filament :</strong></h2>
+<ul>
+<li>Nettoyez régulièrement l’extrudeur.<br>
+</li>
+<li>Évitez d’utiliser du filament humide.</li>
+</ul>
+</section>
+
+<section id="déplacement-des-couches" class="title-slide slide level2 center">
+<h2>3. <strong>Déplacement des couches :</strong></h2>
+<ul>
+<li>Assurez-vous que les courroies soient tendues.<br>
+</li>
+<li>Lubrifiez les guides.</li>
+</ul>
+</section>
+</section>
+<section>
+<section id="à-vous-de-jouer" class="title-slide slide level1 agenda-slide center">
+<h1>À vous de jouer !</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>But du Tutoriel</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Comment imprimer en 3D ?</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Problèmes fréquents et solutions</p>
+</div></li>
+<li><div class="agenda-active">
+<p>À vous de jouer !</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="lf2l" class="title-slide slide level2 center">
+<h2>LF2L</h2>
+<p>L’impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques.</p>
 
 
-<<<<<<<< HEAD:docs/electronics/slides/00-Arduino.html
-========
 <div class="reveal-header">
 <div class="header-logo">
 <img data-src="">
@@ -407,14 +558,13 @@ Paola Vazquez
 <p> </p>
 </div>
 </div>
->>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e:docs/docs/electronics/00-Arduino.html
 </section>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
-<p><img src="../../images/LF2L-Vertical.png" class="slide-logo"></p>
+<p><img src="../images/LF2L-Vertical.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>Tutoriel 2: Comment utiliser une carte Arduino</p>
+<p>Tutorial 1: Comment utiliser une Imprimante 3D</p>
 </div>
 </div></div>
 

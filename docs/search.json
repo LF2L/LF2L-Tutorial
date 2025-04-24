@@ -1,10 +1,1074 @@
 [
   {
+<<<<<<< HEAD
+=======
+    "objectID": "laser-cut/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
+    "href": "laser-cut/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
+    "title": "Découpe Laser",
+    "section": "But pédagogique de ce tutorial",
+    "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences : - Domaine de la découpe laser\n🔨 Savoir-faire : - Utiliser la découpeuse laser\n✍Compéténces: : - Être capable de découper un objet au LF2L"
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#démarrage",
+    "href": "laser-cut/01-Ruby400.html#démarrage",
+    "title": "Découpe Laser",
+    "section": "Démarrage",
+    "text": "Démarrage\n\n\n\n\n\n\n\nTournez la clé pour démarrer la machine, en position “i”.\nTournez à nouveau comme si vous démarriez une voiture (c’est un mouvement qui revient à la position de départ, comme un ressort)."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#calibration",
+    "href": "laser-cut/01-Ruby400.html#calibration",
+    "title": "Découpe Laser",
+    "section": "Calibration",
+    "text": "Calibration\n\n\n\n\n\n\n\n\n\n\n\n\n\nLa machine commencera une série de calibrations et de vérifications. Un message “appareil pas prêt” apparaîtra. Il faut attendre quelques minutes. Il est important de ne pas toucher au capot pendant ce processus. Si vous le faites, la machine affichera une erreur et il faudra tout redémarrer."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section",
+    "href": "laser-cut/01-Ruby400.html#section",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Attendez jusqu’à ce que le message “la file d’attente est vide” apparaisse. À ce moment-là, vous pouvez soulever le capot."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-1",
+    "href": "laser-cut/01-Ruby400.html#section-1",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Le fichier SVG est envoyé à la plateforme en ligne Ruby."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-2",
+    "href": "laser-cut/01-Ruby400.html#section-2",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Les réglages nécessaires sont générés dans le site."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-3",
+    "href": "laser-cut/01-Ruby400.html#section-3",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Configurez la découpe en faisant attention aux couleurs :\n\nRouge : Découpe\nNoir : Gravure"
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-4",
+    "href": "laser-cut/01-Ruby400.html#section-4",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Envoyer le fichier à la liste d’attente de la découpeuse laser."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-5",
+    "href": "laser-cut/01-Ruby400.html#section-5",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "La machine doit être allumée. (retour à la rubrique allumer la machine)"
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-6",
+    "href": "laser-cut/01-Ruby400.html#section-6",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Ouvrez le capot."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-7",
+    "href": "laser-cut/01-Ruby400.html#section-7",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Placez le matériau dans l’angle supérieur droit."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-8",
+    "href": "laser-cut/01-Ruby400.html#section-8",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Déplacez la tête de découpe vers une section où se trouve le matériau."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-9",
+    "href": "laser-cut/01-Ruby400.html#section-9",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Appuyez simultanément sur les flèches haut et bas pour que la machine calibre la hauteur du matériau."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-10",
+    "href": "laser-cut/01-Ruby400.html#section-10",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Attention à sélectionner l’option “point d’accroche au laser” : - Avec cette option, la buse commencera à découper à partir de la position actuelle de la machine. - Sans cette option, le processus commencera depuis l’origine prédéfinie (angle supérieur gauche)."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-11",
+    "href": "laser-cut/01-Ruby400.html#section-11",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Pour effectuer le nettoyage, il faut prendre en compte les éléments suivants :\n\nManipuler avec précaution la lentille et le miroir.\nLes tenir avec la paume de la main pour éviter qu’ils ne tombent.\nPlacer un morceau de serviette en dessous pour amortir une éventuelle chute.\nN’utiliser que les matériaux fournis par le fabmanager.\nUtiliser un tissu spécial pour le nettoyage, fourni avec la machine. Ce tissu ne doit être utilisé que sur un seul côté de chaque lentille.\nLe liquide de nettoyage est conçu par le fabricant et est compatible avec les optiques de la machine."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#nettoyage-du-miroir",
+    "href": "laser-cut/01-Ruby400.html#nettoyage-du-miroir",
+    "title": "Découpe Laser",
+    "section": "Nettoyage du miroir",
+    "text": "Nettoyage du miroir\nManipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-12",
+    "href": "laser-cut/01-Ruby400.html#section-12",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Dévissez les deux vis du miroir à la main."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-13",
+    "href": "laser-cut/01-Ruby400.html#section-13",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Vérifiez les vis et assurez-vous que le miroir est bien sécurisé avant de le retirer."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-14",
+    "href": "laser-cut/01-Ruby400.html#section-14",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Retirez délicatement le miroir et placez-le dans un endroit sécurisé."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-15",
+    "href": "laser-cut/01-Ruby400.html#section-15",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Prenez un bord du papier spécial."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-16",
+    "href": "laser-cut/01-Ruby400.html#section-16",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Pliez le papier plusieurs fois, en veillant à ne pas toucher les parties en contact avec le miroir."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-17",
+    "href": "laser-cut/01-Ruby400.html#section-17",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Appliquez une goutte de liquide spécial sur le miroir."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-18",
+    "href": "laser-cut/01-Ruby400.html#section-18",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Tenez la paume de votre main en dessous pour garantir que le miroir ne tombe pas."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-19",
+    "href": "laser-cut/01-Ruby400.html#section-19",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Avec le papier nettoyant, effectuez des mouvements circulaires doux, du centre vers l’extérieur."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-20",
+    "href": "laser-cut/01-Ruby400.html#section-20",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Assurez-vous qu’il ne reste aucune trace de graisse."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-21",
+    "href": "laser-cut/01-Ruby400.html#section-21",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Le liquide contient de l’alcool, attendez son évaporation complète."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-22",
+    "href": "laser-cut/01-Ruby400.html#section-22",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Replacez le miroir en respectant son orientation (la partie plate doit être à l’intérieur du buzz)."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-23",
+    "href": "laser-cut/01-Ruby400.html#section-23",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Maintenez le miroir en place tout en resserrant les vis, sans trop forcer."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#nettoyage-de-la-lentille",
+    "href": "laser-cut/01-Ruby400.html#nettoyage-de-la-lentille",
+    "title": "Découpe Laser",
+    "section": "Nettoyage de la lentille :",
+    "text": "Nettoyage de la lentille :\n⚠️ Manipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-24",
+    "href": "laser-cut/01-Ruby400.html#section-24",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Dévissez la vis rouge pour retirer la lentille noire."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-25",
+    "href": "laser-cut/01-Ruby400.html#section-25",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Tenez la paume de votre main en dessous pour éviter que la lentille ne tombe."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-26",
+    "href": "laser-cut/01-Ruby400.html#section-26",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "La lentille comporte une flèche et la mention “TOP” indiquant sa position correcte."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-27",
+    "href": "laser-cut/01-Ruby400.html#section-27",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Nettoyez les deux côtés de la lentille, en changeant de tissu à chaque fois."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-28",
+    "href": "laser-cut/01-Ruby400.html#section-28",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Découpez un morceau de tissu propre."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-29",
+    "href": "laser-cut/01-Ruby400.html#section-29",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Pliez le tissu plusieurs fois."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-30",
+    "href": "laser-cut/01-Ruby400.html#section-30",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Appliquez une goutte de liquide sur la lentille et répartissez-le avec la main."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-31",
+    "href": "laser-cut/01-Ruby400.html#section-31",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Effectuez des mouvements circulaires doux, du centre vers l’extérieur."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-32",
+    "href": "laser-cut/01-Ruby400.html#section-32",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Vérifiez sous la lumière pour s’assurer qu’il ne reste aucun résidu, empreinte ou trace de graisse."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-33",
+    "href": "laser-cut/01-Ruby400.html#section-33",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Replacez la lentille et le miroir en respectant la bonne orientation (flèche et “TOP” sur la lentille)."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-34",
+    "href": "laser-cut/01-Ruby400.html#section-34",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Serrez les vis sans forcer, juste assez pour maintenir la pièce en place."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#nettoyage-de-la-buse-nozzle",
+    "href": "laser-cut/01-Ruby400.html#nettoyage-de-la-buse-nozzle",
+    "title": "Découpe Laser",
+    "section": "Nettoyage de la buse (nozzle) :",
+    "text": "Nettoyage de la buse (nozzle) :"
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-35",
+    "href": "laser-cut/01-Ruby400.html#section-35",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Dévissez la buse."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-36",
+    "href": "laser-cut/01-Ruby400.html#section-36",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Appliquez de l’alcool isopropylique sur un morceau de tissu propre."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-37",
+    "href": "laser-cut/01-Ruby400.html#section-37",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Nettoyez les résidus de résine et d’acrylique présents sur la buse."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-38",
+    "href": "laser-cut/01-Ruby400.html#section-38",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Revissez la buse."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-39",
+    "href": "laser-cut/01-Ruby400.html#section-39",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Dévissez les vis situées en diagonale (inférieure droite et supérieure gauche)."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-40",
+    "href": "laser-cut/01-Ruby400.html#section-40",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Soulevez la grille et placez-la à côté de la machine."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-41",
+    "href": "laser-cut/01-Ruby400.html#section-41",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Aspirez les résidus de matériau avec l’aspirateur."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-42",
+    "href": "laser-cut/01-Ruby400.html#section-42",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Replacez la grille avec précaution."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-43",
+    "href": "laser-cut/01-Ruby400.html#section-43",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Revissez les vis."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-44",
+    "href": "laser-cut/01-Ruby400.html#section-44",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Remontez la base de la machine."
+  },
+  {
+    "objectID": "laser-cut/01-Ruby400.html#section-45",
+    "href": "laser-cut/01-Ruby400.html#section-45",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Fermez le capot.\n\n\n\n\n\n\n\n\n\n\n \n\n\nRuby Speedy 400"
+  },
+  {
+    "objectID": "electronics/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
+    "href": "electronics/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’un moteur DC et d’un pont en H (H-bridge)\n\n🔧 Savoir-faire :\n\nContrôler le sens et la vitesse d’un moteur DC avec PWM\n\n✍ Compétences :\n\nIntégrer un moteur DC dans un projet Arduino avec carte Romeo"
+  },
+  {
+    "objectID": "electronics/01-ArduinoROMEO.html#connexion-du-moteur",
+    "href": "electronics/01-ArduinoROMEO.html#connexion-du-moteur",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "Connexion du moteur",
+    "text": "Connexion du moteur\n\n\n\n\n\n\n\nMoteur → Borniers M1 de la carte Romeo\n\nAlimentation 12V → VIN et GND de la Romeo\n\nUSB → pour programmer la carte\n\nLe sens de rotation dépend du câblage M1\n\n\n\n\n\n\n\nTip\n\n\n🔁 Inverser les fils M1 si le sens de rotation est inversé"
+  },
+  {
+    "objectID": "electronics/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
+    "href": "electronics/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "Contrôle de la vitesse et du sens",
+    "text": "Contrôle de la vitesse et du sens\n```cpp // Contrôle d’un moteur DC via la carte Romeo\nconst int IN1 = 4; // Contrôle du sens const int IN2 = 5;\nconst int ENA = 6; // Vitesse via PWM\nvoid setup() { pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENA, OUTPUT); }\nvoid loop() { // Tourne dans un sens digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENA, 150); // Vitesse moyenne (0–255) delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(1000);\n// Sens inverse digitalWrite(IN1, LOW); digitalWrite(IN2, HIGH); analogWrite(ENA, 200); delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(2000); }\n\n\n\n\n\n\n\n \n\n\nListe de tutoriels"
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#introduction-à-orcaslicer",
+    "href": "3D-printing/02-OrcaSlicer.html#introduction-à-orcaslicer",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Introduction à OrcaSlicer",
+    "text": "Introduction à OrcaSlicer"
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#un-slicer-est-un-programme-qui-permet-de-convertir-un-modèle-3d-en-instructions-pour-une-imprimante-3d.",
+    "href": "3D-printing/02-OrcaSlicer.html#un-slicer-est-un-programme-qui-permet-de-convertir-un-modèle-3d-en-instructions-pour-une-imprimante-3d.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Un slicer est un programme qui permet de convertir un modèle 3D en instructions pour une imprimante 3D.",
+    "text": "Un slicer est un programme qui permet de convertir un modèle 3D en instructions pour une imprimante 3D."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#orcaslicer-est-un-logiciel-de-découpe-recommandé-pour-la-forge-adventurer-m5-pro.",
+    "href": "3D-printing/02-OrcaSlicer.html#orcaslicer-est-un-logiciel-de-découpe-recommandé-pour-la-forge-adventurer-m5-pro.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "OrcaSlicer est un logiciel de découpe recommandé pour la Forge Adventurer M5 Pro.",
+    "text": "OrcaSlicer est un logiciel de découpe recommandé pour la Forge Adventurer M5 Pro."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#il-permet-de-préparer-les-paramètres-nécessaires-pour-limpression-avec-du-pla-y-compris-la-température-la-vitesse-dimpression-la-hauteur-de-couche-les-supports-et-le-refroidissement.",
+    "href": "3D-printing/02-OrcaSlicer.html#il-permet-de-préparer-les-paramètres-nécessaires-pour-limpression-avec-du-pla-y-compris-la-température-la-vitesse-dimpression-la-hauteur-de-couche-les-supports-et-le-refroidissement.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Il permet de préparer les paramètres nécessaires pour l’impression avec du PLA, y compris la température, la vitesse d’impression, la hauteur de couche, les supports et le refroidissement.",
+    "text": "Il permet de préparer les paramètres nécessaires pour l’impression avec du PLA, y compris la température, la vitesse d’impression, la hauteur de couche, les supports et le refroidissement."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#attention-il-existe-un-site-web-non-officiel-qui-peut-contenir-des-virus.-téléchargez-le-programme-uniquement-à-partir-du-site-officiel-pour-garantir-la-sécurité-de-votre-appareil-ici-.",
+    "href": "3D-printing/02-OrcaSlicer.html#attention-il-existe-un-site-web-non-officiel-qui-peut-contenir-des-virus.-téléchargez-le-programme-uniquement-à-partir-du-site-officiel-pour-garantir-la-sécurité-de-votre-appareil-ici-.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Attention : Il existe un site web non officiel qui peut contenir des virus. Téléchargez le programme uniquement à partir du site officiel pour garantir la sécurité de votre appareil ici .",
+    "text": "Attention : Il existe un site web non officiel qui peut contenir des virus. Téléchargez le programme uniquement à partir du site officiel pour garantir la sécurité de votre appareil ici ."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#téléchargez-orcaslicer-à-partir-du-site-officiel.",
+    "href": "3D-printing/02-OrcaSlicer.html#téléchargez-orcaslicer-à-partir-du-site-officiel.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Téléchargez OrcaSlicer à partir du site officiel.",
+    "text": "Téléchargez OrcaSlicer à partir du site officiel."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#une-fois-le-fichier-téléchargé-installez-le-sur-votre-ordinateur.",
+    "href": "3D-printing/02-OrcaSlicer.html#une-fois-le-fichier-téléchargé-installez-le-sur-votre-ordinateur.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Une fois le fichier téléchargé, installez-le sur votre ordinateur.",
+    "text": "Une fois le fichier téléchargé, installez-le sur votre ordinateur."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#ouvrez-orcaslicer-après-linstallation-pour-commencer-à-préparer-vos-fichiers.",
+    "href": "3D-printing/02-OrcaSlicer.html#ouvrez-orcaslicer-après-linstallation-pour-commencer-à-préparer-vos-fichiers.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Ouvrez OrcaSlicer après l’installation pour commencer à préparer vos fichiers.",
+    "text": "Ouvrez OrcaSlicer après l’installation pour commencer à préparer vos fichiers."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#dans-orcaslicer-sélectionnez-le-matériau-pla.-cela-garantit-que-les-bonnes-températures-et-paramètres-sont-appliqués-pour-ce-type-de-filament.",
+    "href": "3D-printing/02-OrcaSlicer.html#dans-orcaslicer-sélectionnez-le-matériau-pla.-cela-garantit-que-les-bonnes-températures-et-paramètres-sont-appliqués-pour-ce-type-de-filament.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Dans OrcaSlicer, sélectionnez le matériau PLA. Cela garantit que les bonnes températures et paramètres sont appliqués pour ce type de filament.",
+    "text": "Dans OrcaSlicer, sélectionnez le matériau PLA. Cela garantit que les bonnes températures et paramètres sont appliqués pour ce type de filament."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#la-température-recommandée-pour-lextrudeuse-lors-de-lutilisation-du-pla-est-généralement-entre-190c-et-220c.",
+    "href": "3D-printing/02-OrcaSlicer.html#la-température-recommandée-pour-lextrudeuse-lors-de-lutilisation-du-pla-est-généralement-entre-190c-et-220c.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "La température recommandée pour l’extrudeuse lors de l’utilisation du PLA est généralement entre 190°C et 220°C.",
+    "text": "La température recommandée pour l’extrudeuse lors de l’utilisation du PLA est généralement entre 190°C et 220°C."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#sélectionnez-la-température-de-votre-choix-en-fonction-de-la-marque-de-pla-et-des-résultats-attendus.",
+    "href": "3D-printing/02-OrcaSlicer.html#sélectionnez-la-température-de-votre-choix-en-fonction-de-la-marque-de-pla-et-des-résultats-attendus.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Sélectionnez la température de votre choix en fonction de la marque de PLA et des résultats attendus.",
+    "text": "Sélectionnez la température de votre choix en fonction de la marque de PLA et des résultats attendus."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#pour-le-pla-la-température-du-lit-chauffant-doit-être-réglée-entre-50c-et-70c.",
+    "href": "3D-printing/02-OrcaSlicer.html#pour-le-pla-la-température-du-lit-chauffant-doit-être-réglée-entre-50c-et-70c.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Pour le PLA, la température du lit chauffant doit être réglée entre 50°C et 70°C.",
+    "text": "Pour le PLA, la température du lit chauffant doit être réglée entre 50°C et 70°C."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#cela-aide-à-améliorer-ladhésion-du-premier-couche-et-éviter-le-gauchissement.",
+    "href": "3D-printing/02-OrcaSlicer.html#cela-aide-à-améliorer-ladhésion-du-premier-couche-et-éviter-le-gauchissement.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Cela aide à améliorer l’adhésion du premier couche et éviter le gauchissement.",
+    "text": "Cela aide à améliorer l’adhésion du premier couche et éviter le gauchissement."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#la-hauteur-de-la-couche-dépend-de-la-précision-et-de-la-vitesse-souhaitées.",
+    "href": "3D-printing/02-OrcaSlicer.html#la-hauteur-de-la-couche-dépend-de-la-précision-et-de-la-vitesse-souhaitées.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "La hauteur de la couche dépend de la précision et de la vitesse souhaitées.",
+    "text": "La hauteur de la couche dépend de la précision et de la vitesse souhaitées."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#pour-une-qualité-dimpression-optimale-nous-recommandons-une-hauteur-de-couche-entre-0.1-mm-et-0.2-mm.",
+    "href": "3D-printing/02-OrcaSlicer.html#pour-une-qualité-dimpression-optimale-nous-recommandons-une-hauteur-de-couche-entre-0.1-mm-et-0.2-mm.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Pour une qualité d’impression optimale, nous recommandons une hauteur de couche entre 0.1 mm et 0.2 mm.",
+    "text": "Pour une qualité d’impression optimale, nous recommandons une hauteur de couche entre 0.1 mm et 0.2 mm."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#si-vous-préférez-une-impression-plus-rapide-avec-moins-de-détails-vous-pouvez-augmenter-la-hauteur-de-la-couche.",
+    "href": "3D-printing/02-OrcaSlicer.html#si-vous-préférez-une-impression-plus-rapide-avec-moins-de-détails-vous-pouvez-augmenter-la-hauteur-de-la-couche.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Si vous préférez une impression plus rapide avec moins de détails, vous pouvez augmenter la hauteur de la couche.",
+    "text": "Si vous préférez une impression plus rapide avec moins de détails, vous pouvez augmenter la hauteur de la couche."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#la-vitesse-dimpression-recommandée-pour-le-pla-est-de-40-mms-à-60-mms.",
+    "href": "3D-printing/02-OrcaSlicer.html#la-vitesse-dimpression-recommandée-pour-le-pla-est-de-40-mms-à-60-mms.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "La vitesse d’impression recommandée pour le PLA est de 40 mm/s à 60 mm/s.",
+    "text": "La vitesse d’impression recommandée pour le PLA est de 40 mm/s à 60 mm/s."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#si-vous-préférez-plus-de-précision-vous-pouvez-réduire-la-vitesse-dimpression-mais-cela-rallongera-le-temps-dimpression.",
+    "href": "3D-printing/02-OrcaSlicer.html#si-vous-préférez-plus-de-précision-vous-pouvez-réduire-la-vitesse-dimpression-mais-cela-rallongera-le-temps-dimpression.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Si vous préférez plus de précision, vous pouvez réduire la vitesse d’impression, mais cela rallongera le temps d’impression.",
+    "text": "Si vous préférez plus de précision, vous pouvez réduire la vitesse d’impression, mais cela rallongera le temps d’impression."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#les-supports-peuvent-être-activés-si-votre-modèle-en-nécessite.",
+    "href": "3D-printing/02-OrcaSlicer.html#les-supports-peuvent-être-activés-si-votre-modèle-en-nécessite.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Les supports peuvent être activés si votre modèle en nécessite.",
+    "text": "Les supports peuvent être activés si votre modèle en nécessite."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#sélectionnez-loption-supports-dans-orcaslicer-et-configurez-le-en-fonction-de-la-géométrie-du-modèle.-vous-pouvez-choisir-un-support-en-ligne-ou-en-arbre-selon-vos-besoins.",
+    "href": "3D-printing/02-OrcaSlicer.html#sélectionnez-loption-supports-dans-orcaslicer-et-configurez-le-en-fonction-de-la-géométrie-du-modèle.-vous-pouvez-choisir-un-support-en-ligne-ou-en-arbre-selon-vos-besoins.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Sélectionnez l’option “Supports” dans OrcaSlicer et configurez-le en fonction de la géométrie du modèle. Vous pouvez choisir un support en ligne ou en arbre selon vos besoins.",
+    "text": "Sélectionnez l’option “Supports” dans OrcaSlicer et configurez-le en fonction de la géométrie du modèle. Vous pouvez choisir un support en ligne ou en arbre selon vos besoins."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#le-refroidissement-est-essentiel-pour-obtenir-une-bonne-qualité-dimpression-avec-du-pla.",
+    "href": "3D-printing/02-OrcaSlicer.html#le-refroidissement-est-essentiel-pour-obtenir-une-bonne-qualité-dimpression-avec-du-pla.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Le refroidissement est essentiel pour obtenir une bonne qualité d’impression avec du PLA.",
+    "text": "Le refroidissement est essentiel pour obtenir une bonne qualité d’impression avec du PLA."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#activez-le-ventilateur-de-refroidissement-dans-orcaslicer-pour-un-refroidissement-rapide-de-chaque-couche.",
+    "href": "3D-printing/02-OrcaSlicer.html#activez-le-ventilateur-de-refroidissement-dans-orcaslicer-pour-un-refroidissement-rapide-de-chaque-couche.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Activez le ventilateur de refroidissement dans OrcaSlicer pour un refroidissement rapide de chaque couche.",
+    "text": "Activez le ventilateur de refroidissement dans OrcaSlicer pour un refroidissement rapide de chaque couche."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#la-vitesse-du-ventilateur-peut-être-ajustée-en-fonction-de-la-taille-du-modèle-et-de-lépaisseur-de-la-couche.",
+    "href": "3D-printing/02-OrcaSlicer.html#la-vitesse-du-ventilateur-peut-être-ajustée-en-fonction-de-la-taille-du-modèle-et-de-lépaisseur-de-la-couche.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "La vitesse du ventilateur peut être ajustée en fonction de la taille du modèle et de l’épaisseur de la couche.",
+    "text": "La vitesse du ventilateur peut être ajustée en fonction de la taille du modèle et de l’épaisseur de la couche."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#une-fois-tous-les-paramètres-définis-cliquez-sur-slice-pour-générer-le-fichier-g-code.",
+    "href": "3D-printing/02-OrcaSlicer.html#une-fois-tous-les-paramètres-définis-cliquez-sur-slice-pour-générer-le-fichier-g-code.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Une fois tous les paramètres définis, cliquez sur “Slice” pour générer le fichier G-code.",
+    "text": "Une fois tous les paramètres définis, cliquez sur “Slice” pour générer le fichier G-code."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#sauvegardez-le-fichier-g-code-sur-une-carte-sd-ou-envoyez-le-directement-à-votre-imprimante-forge-adventurer-m5-pro.",
+    "href": "3D-printing/02-OrcaSlicer.html#sauvegardez-le-fichier-g-code-sur-une-carte-sd-ou-envoyez-le-directement-à-votre-imprimante-forge-adventurer-m5-pro.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Sauvegardez le fichier G-code sur une carte SD ou envoyez-le directement à votre imprimante Forge Adventurer M5 Pro.",
+    "text": "Sauvegardez le fichier G-code sur une carte SD ou envoyez-le directement à votre imprimante Forge Adventurer M5 Pro."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#insérez-la-carte-sd-dans-limprimante-et-sélectionnez-le-fichier-pour-commencer-limpression.",
+    "href": "3D-printing/02-OrcaSlicer.html#insérez-la-carte-sd-dans-limprimante-et-sélectionnez-le-fichier-pour-commencer-limpression.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Insérez la carte SD dans l’imprimante et sélectionnez le fichier pour commencer l’impression.",
+    "text": "Insérez la carte SD dans l’imprimante et sélectionnez le fichier pour commencer l’impression."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#vérifiez-toujours-les-paramètres-dadhésion-au-lit-avant-de-commencer-limpression.",
+    "href": "3D-printing/02-OrcaSlicer.html#vérifiez-toujours-les-paramètres-dadhésion-au-lit-avant-de-commencer-limpression.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Vérifiez toujours les paramètres d’adhésion au lit avant de commencer l’impression.",
+    "text": "Vérifiez toujours les paramètres d’adhésion au lit avant de commencer l’impression."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#si-votre-première-couche-ne-sadhère-pas-correctement-ajustez-la-température-du-lit-ou-nettoyez-la-surface-dimpression.",
+    "href": "3D-printing/02-OrcaSlicer.html#si-votre-première-couche-ne-sadhère-pas-correctement-ajustez-la-température-du-lit-ou-nettoyez-la-surface-dimpression.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Si votre première couche ne s’adhère pas correctement, ajustez la température du lit ou nettoyez la surface d’impression.",
+    "text": "Si votre première couche ne s’adhère pas correctement, ajustez la température du lit ou nettoyez la surface d’impression."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#utilisez-un-film-ou-un-ruban-adhésif-pour-aider-à-une-meilleure-adhésion-si-nécessaire.",
+    "href": "3D-printing/02-OrcaSlicer.html#utilisez-un-film-ou-un-ruban-adhésif-pour-aider-à-une-meilleure-adhésion-si-nécessaire.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Utilisez un film ou un ruban adhésif pour aider à une meilleure adhésion si nécessaire.",
+    "text": "Utilisez un film ou un ruban adhésif pour aider à une meilleure adhésion si nécessaire."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#orcaslicer-est-un-excellent-choix-pour-préparer-vos-impressions-3d-avec-le-pla-et-la-forge-adventurer-m5-pro.",
+    "href": "3D-printing/02-OrcaSlicer.html#orcaslicer-est-un-excellent-choix-pour-préparer-vos-impressions-3d-avec-le-pla-et-la-forge-adventurer-m5-pro.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "OrcaSlicer est un excellent choix pour préparer vos impressions 3D avec le PLA et la Forge Adventurer M5 Pro.",
+    "text": "OrcaSlicer est un excellent choix pour préparer vos impressions 3D avec le PLA et la Forge Adventurer M5 Pro."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#il-vous-permet-de-configurer-facilement-tous-les-paramètres-nécessaires-pour-obtenir-des-impressions-de-haute-qualité.",
+    "href": "3D-printing/02-OrcaSlicer.html#il-vous-permet-de-configurer-facilement-tous-les-paramètres-nécessaires-pour-obtenir-des-impressions-de-haute-qualité.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Il vous permet de configurer facilement tous les paramètres nécessaires pour obtenir des impressions de haute qualité.",
+    "text": "Il vous permet de configurer facilement tous les paramètres nécessaires pour obtenir des impressions de haute qualité."
+  },
+  {
+    "objectID": "3D-printing/02-OrcaSlicer.html#assurez-vous-de-toujours-utiliser-les-bons-paramètres-en-fonction-de-votre-matériau-et-de-votre-imprimante-pour-de-meilleurs-résultats.",
+    "href": "3D-printing/02-OrcaSlicer.html#assurez-vous-de-toujours-utiliser-les-bons-paramètres-en-fonction-de-votre-matériau-et-de-votre-imprimante-pour-de-meilleurs-résultats.",
+    "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
+    "section": "Assurez-vous de toujours utiliser les bons paramètres en fonction de votre matériau et de votre imprimante pour de meilleurs résultats.",
+    "text": "Assurez-vous de toujours utiliser les bons paramètres en fonction de votre matériau et de votre imprimante pour de meilleurs résultats.\n\n\n\n\n\n\n\n \n\n\nTutoriel pour l’impression 3D avec PLA"
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#but-pédagogique-de-ce-tutorial",
+    "href": "3D-printing/00-introduction.html#but-pédagogique-de-ce-tutorial",
+    "title": "Impression 3D",
+    "section": "But pédagogique de ce tutorial",
+    "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser les machines d’impression 3D\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#quest-ce-que-limpression-3d",
+    "href": "3D-printing/00-introduction.html#quest-ce-que-limpression-3d",
+    "title": "Impression 3D",
+    "section": "Qu’est-ce que l’impression 3D ?",
+    "text": "Qu’est-ce que l’impression 3D ?\n\n\n\n\n\n\nL’impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d’être envoyé à la machine.\nContrairement à d’autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#technologies-et-matériaux-principaux",
+    "href": "3D-printing/00-introduction.html#technologies-et-matériaux-principaux",
+    "title": "Impression 3D",
+    "section": "Technologies et matériaux principaux",
+    "text": "Technologies et matériaux principaux"
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#applications-du-pla",
+    "href": "3D-printing/00-introduction.html#applications-du-pla",
+    "title": "Impression 3D",
+    "section": "Applications du PLA",
+    "text": "Applications du PLA\n\n\n\n\n\n\n\nObjets décoratifs ou artistiques.\n\nPrototypes pour des projets personnels.\n\nOrganisateurs et accessoires du quotidien.\n\nPièces de rechange non structurelles."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression",
+    "href": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-1",
+    "href": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-1",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-2",
+    "href": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-2",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-3",
+    "href": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-3",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-4",
+    "href": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-4",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-5",
+    "href": "3D-printing/00-introduction.html#pas-à-suivre-pour-limpression-5",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#mauvaise-adhérence-de-la-première-couche",
+    "href": "3D-printing/00-introduction.html#mauvaise-adhérence-de-la-première-couche",
+    "title": "Impression 3D",
+    "section": "1. Mauvaise adhérence de la première couche :",
+    "text": "1. Mauvaise adhérence de la première couche :\n\nNivelez et nettoyez le plateau d’impression.\n\nUtilisez de la colle en bâton ou un ruban bleu pour améliorer l’adhésion."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#bouchage-du-filament",
+    "href": "3D-printing/00-introduction.html#bouchage-du-filament",
+    "title": "Impression 3D",
+    "section": "2. Bouchage du filament :",
+    "text": "2. Bouchage du filament :\n\nNettoyez régulièrement l’extrudeur.\n\nÉvitez d’utiliser du filament humide."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#déplacement-des-couches",
+    "href": "3D-printing/00-introduction.html#déplacement-des-couches",
+    "title": "Impression 3D",
+    "section": "3. Déplacement des couches :",
+    "text": "3. Déplacement des couches :\n\nAssurez-vous que les courroies soient tendues.\n\nLubrifiez les guides."
+  },
+  {
+    "objectID": "3D-printing/00-introduction.html#lf2l",
+    "href": "3D-printing/00-introduction.html#lf2l",
+    "title": "Impression 3D",
+    "section": "LF2L",
+    "text": "LF2L\nL’impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques.\n\n\n\n\n\n\n\n \n\n\nListe de tutoriels"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
+    "href": "3D-printing/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Tutoriel d’utilisation :",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser la machine d’impression 3D Flashforge Adventurer 5M Pro\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#comment-imprimer-en-3d-1",
+    "href": "3D-printing/01-flashforge.html#comment-imprimer-en-3d-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Comment imprimer en 3D ?",
+    "text": "Comment imprimer en 3D ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl faut trois étapes:\n1) Model CAO → 2) Processus de ‘Slicing’ → 3) Fichier .Gcode"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#modèle-cao",
+    "href": "3D-printing/01-flashforge.html#modèle-cao",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Modèle CAO",
+    "text": "Modèle CAO\n\n\n\n\n\n\n\nBut\n\n\nObtenir le modèle CAO utile pour l’impression 3D."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#processus-de-slicing",
+    "href": "3D-printing/01-flashforge.html#processus-de-slicing",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Processus de Slicing",
+    "text": "Processus de Slicing\n\n\n\n\n\n\n\nBut\n\n\nTransformer le modèle .STL en un fichier machine .GCODE"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-1",
+    "href": "3D-printing/01-flashforge.html#section-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Enregistrez le fichier (format G-code) sur une clé USB compatible.\n\n\n\n\n\nAu LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-2",
+    "href": "3D-printing/01-flashforge.html#section-2",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Assurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-3",
+    "href": "3D-printing/01-flashforge.html#section-3",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Nettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-4",
+    "href": "3D-printing/01-flashforge.html#section-4",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Vérifiez que l’imprimante est connectée à une prise électrique.\nAppuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-5",
+    "href": "3D-printing/01-flashforge.html#section-5",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Attendez que le système soit complètement initialisé avant de continuer."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-6",
+    "href": "3D-printing/01-flashforge.html#section-6",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "L’imprimante est bien allumée quand ce écran est montrée"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-7",
+    "href": "3D-printing/01-flashforge.html#section-7",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Placez le filament à l’arrière de l’imprimante."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-8",
+    "href": "3D-printing/01-flashforge.html#section-8",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ouvrez la porte du haut"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
+    "href": "3D-printing/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
+    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-9",
+    "href": "3D-printing/01-flashforge.html#section-9",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament”."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
+    "href": "3D-printing/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Attendez que la température atteigne 220 °C",
+    "text": "Attendez que la température atteigne 220 °C"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-10",
+    "href": "3D-printing/01-flashforge.html#section-10",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
+    "href": "3D-printing/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.",
+    "text": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-11",
+    "href": "3D-printing/01-flashforge.html#section-11",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament imprimé."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-12",
+    "href": "3D-printing/01-flashforge.html#section-12",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ouvrez la porte du haut"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-13",
+    "href": "3D-printing/01-flashforge.html#section-13",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le tube blanc et coupez l’ancien filament à l’aide d’une pince\n\n\n\n\n\nRemarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n’est pas le cas, demandez-les aux FabManagers."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-14",
+    "href": "3D-printing/01-flashforge.html#section-14",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l’empêcher de se dérouler"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-15",
+    "href": "3D-printing/01-flashforge.html#section-15",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Placez le nouveau filament sur la base située à l’arrière de l’imprimante."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
+    "href": "3D-printing/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
+    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-16",
+    "href": "3D-printing/01-flashforge.html#section-16",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament” et “Démarrer”"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
+    "href": "3D-printing/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Attendez que la température atteigne 220 °C",
+    "text": "Attendez que la température atteigne 220 °C"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-17",
+    "href": "3D-printing/01-flashforge.html#section-17",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
+    "href": "3D-printing/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus.",
+    "text": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-18",
+    "href": "3D-printing/01-flashforge.html#section-18",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament imprimé."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-19",
+    "href": "3D-printing/01-flashforge.html#section-19",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-20",
+    "href": "3D-printing/01-flashforge.html#section-20",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-21",
+    "href": "3D-printing/01-flashforge.html#section-21",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-22",
+    "href": "3D-printing/01-flashforge.html#section-22",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Appuyez sur le bouton “Imprimer” et confirmez votre sélection."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
+    "href": "3D-printing/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.",
+    "text": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-23",
+    "href": "3D-printing/01-flashforge.html#section-23",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Observez l’impression de la première couche :"
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-24",
+    "href": "3D-printing/01-flashforge.html#section-24",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Assurez-vous que le filament adhère correctement au plateau d’impression."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-25",
+    "href": "3D-printing/01-flashforge.html#section-25",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-26",
+    "href": "3D-printing/01-flashforge.html#section-26",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-27",
+    "href": "3D-printing/01-flashforge.html#section-27",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut."
+  },
+  {
+    "objectID": "3D-printing/01-flashforge.html#section-28",
+    "href": "3D-printing/01-flashforge.html#section-28",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés.\n\n\n\n\n\n\n\n \n\n\nImpression 3D avec Flashforge Adventurer 5M Pro"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "href": "electronics/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Arduino : Installation et projet de base",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#installation-de-lide-arduino-1",
+    "href": "electronics/00-Arduino.html#installation-de-lide-arduino-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Installation de l’IDE Arduino",
+    "text": "Installation de l’IDE Arduino\n\n\n\n\n\n\n\nAller sur arduino.cc/software\n\nTélécharger et installer pour Windows, Mac ou Linux\n\nOuvrir l’IDE après installation"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#connexion-de-la-carte-arduino",
+    "href": "electronics/00-Arduino.html#connexion-de-la-carte-arduino",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Connexion de la carte Arduino",
+    "text": "Connexion de la carte Arduino\n\n\n\n\n\n\n\nBranchez la carte avec un câble USB\n\nDans l’IDE :\n\nOutils &gt; Type de carte &gt; Arduino Nano\n\nOutils &gt; Port &gt; COM3 (ou selon le système)\n\n\n\n\n\n\n\n\nNote\n\n\n💡 Sous Windows, utilisez le Gestionnaire de périphériques pour identifier le port."
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#pilote-ch340-pour-clones",
+    "href": "electronics/00-Arduino.html#pilote-ch340-pour-clones",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Pilote CH340 (pour clones)",
+    "text": "Pilote CH340 (pour clones)\n\nTélécharger ici (Windows)\n\nTélécharger pour Mac"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "href": "electronics/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Ajouter des bibliothèques dans l’IDE",
+    "text": "Ajouter des bibliothèques dans l’IDE\n\nMenu : Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…\n\nRechercher et installer Servo"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#matériel-nécessaire",
+    "href": "electronics/00-Arduino.html#matériel-nécessaire",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Matériel Nécessaire",
+    "text": "Matériel Nécessaire\n\n\n\n\n\n\n\n\n\nÉlément\nQté\n\n\n\n\nArduino Nano\n1\n\n\nCâble USB\n1\n\n\nBreadboard\n1\n\n\nCâbles Dupont\n~20\n\n\nLED + Résistance\n1\n\n\nBouton + 10kΩ\n1\n\n\nServo SG90\n1\n\n\nMoteur DC\n2\n\n\nModule L298N\n1\n\n\nBatterie (2x 3.7V)\n1"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#section",
+    "href": "electronics/00-Arduino.html#section",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "LED\n- + → Résistance → D2\n- – → GND\nBouton\n- 1 patte → 5V\n- 1 patte → D3 + résistance → GND\nServo SG90\n- Marron → GND\n- Rouge → 5V\n- Orange → D9\nL298N\n- IN1 → D5\n- IN2 → D6\n- GND → GND Arduino\n- Alim → 9V batterie"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#section-1",
+    "href": "electronics/00-Arduino.html#section-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "```cpp #include &lt;Servo.h&gt;\nServo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;\nvoid setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }\nvoid loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }\n\n\n\n\n\n\n\n \n\n\nListe de tutoriels"
+  },
+  {
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "objectID": "index.html",
     "href": "index.html",
     "title": "Tutoriels au Lorraine Fab Living labs",
     "section": "",
+<<<<<<< HEAD
     "text": "Esto es index\n\n\n\n\n Retour au sommetRéutilisationCC BY-SA 4.0"
+=======
+    "text": "Tutoriales sur l’impression 3D\n\n\n\n\n\n\n\n\nTutoriel d’utilisation :\n\n\n\n\n\n\nPaola\n\n\n\n\n\n\n\n\n\n\n\n\nUtilisation de OrcaSlicer avec Forge Adventurer M5 Pro\n\n\n\n\n\n\nPaola\n\n\nJun 1, 2027\n\n\n\n\n\n\n\n\n\n\n\n\nImpression 3D\n\n\n\n\n\n\nPaola\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTutoriales Decoupe laser\n\n\n\n\n\n\n\n\n\n\nDécoupe Laser\n\n\n\n\n\n\nPaola VAZQUEZ\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nTutoriales Electronique\n\n\n\n\n\n\n\n\nArduino : Installation et projet de base\n\n\n\n\n\n\nPaola\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nArduino : Contrôler un moteur DC avec une carte Romeo\n\n\n\n\n\n\nPaola\n\n\nJun 12, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "docs/electronics/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
+    "href": "docs/electronics/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’un moteur DC et d’un pont en H (H-bridge)\n\n🔧 Savoir-faire :\n\nContrôler le sens et la vitesse d’un moteur DC avec PWM\n\n✍ Compétences :\n\nIntégrer un moteur DC dans un projet Arduino avec carte Romeo"
+  },
+  {
+    "objectID": "docs/electronics/01-ArduinoROMEO.html#connexion-du-moteur",
+    "href": "docs/electronics/01-ArduinoROMEO.html#connexion-du-moteur",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "Connexion du moteur",
+    "text": "Connexion du moteur\n\n\n\n\n\n\n\nMoteur → Borniers M1 de la carte Romeo\n\nAlimentation 12V → VIN et GND de la Romeo\n\nUSB → pour programmer la carte\n\nLe sens de rotation dépend du câblage M1\n\n\n\n\n\n\n\nTip\n\n\n🔁 Inverser les fils M1 si le sens de rotation est inversé"
+  },
+  {
+    "objectID": "docs/electronics/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
+    "href": "docs/electronics/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "Contrôle de la vitesse et du sens",
+    "text": "Contrôle de la vitesse et du sens\n```cpp // Contrôle d’un moteur DC via la carte Romeo\nconst int IN1 = 4; // Contrôle du sens const int IN2 = 5;\nconst int ENA = 6; // Vitesse via PWM\nvoid setup() { pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENA, OUTPUT); }\nvoid loop() { // Tourne dans un sens digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENA, 150); // Vitesse moyenne (0–255) delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(1000);\n// Sens inverse digitalWrite(IN1, LOW); digitalWrite(IN2, HIGH); analogWrite(ENA, 200); delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(2000); }\n\n\n\n\n\n\n\n \n\n\nListe de tutoriels"
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
   },
   {
     "objectID": "laser-cut/tutoriels.html",
@@ -297,6 +1361,7 @@
     "text": "Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut."
   },
   {
+<<<<<<< HEAD
     "objectID": "printing/slides/01-flashforge.html#section-28",
     "href": "printing/slides/01-flashforge.html#section-28",
     "title": "Tutoriel d’utilisation :",
@@ -404,53 +1469,95 @@
   {
     "objectID": "electronics/slides/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
     "href": "electronics/slides/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+=======
+    "objectID": "docs/3D-printing/01-flashforge.html#section-28",
+    "href": "docs/3D-printing/01-flashforge.html#section-28",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés.\n\n\n\n\n\n\n\n \n\n\nImpression 3D avec Flashforge Adventurer 5M Pro"
+  },
+  {
+    "objectID": "docs/electronics/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "href": "docs/electronics/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "But pédagogique de ce tutoriel",
     "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#installation-de-lide-arduino-1",
     "href": "electronics/slides/00-Arduino.html#installation-de-lide-arduino-1",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#installation-de-lide-arduino-1",
+    "href": "docs/electronics/00-Arduino.html#installation-de-lide-arduino-1",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "Installation de l’IDE Arduino",
     "text": "Installation de l’IDE Arduino\n\n\n\n\n\n\n\nAller sur arduino.cc/software\n\nTélécharger et installer pour Windows, Mac ou Linux\n\nOuvrir l’IDE après installation"
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#connexion-de-la-carte-arduino",
     "href": "electronics/slides/00-Arduino.html#connexion-de-la-carte-arduino",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#connexion-de-la-carte-arduino",
+    "href": "docs/electronics/00-Arduino.html#connexion-de-la-carte-arduino",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "Connexion de la carte Arduino",
     "text": "Connexion de la carte Arduino\n\n\n\n\n\n\n\nBranchez la carte avec un câble USB\n\nDans l’IDE :\n\nOutils &gt; Type de carte &gt; Arduino Nano\n\nOutils &gt; Port &gt; COM3 (ou selon le système)\n\n\n\n\n\n\n\n\nNote\n\n\n💡 Sous Windows, utilisez le Gestionnaire de périphériques pour identifier le port."
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#pilote-ch340-pour-clones",
     "href": "electronics/slides/00-Arduino.html#pilote-ch340-pour-clones",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#pilote-ch340-pour-clones",
+    "href": "docs/electronics/00-Arduino.html#pilote-ch340-pour-clones",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "Pilote CH340 (pour clones)",
     "text": "Pilote CH340 (pour clones)\n\nTélécharger ici (Windows)\n\nTélécharger pour Mac"
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
     "href": "electronics/slides/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "href": "docs/electronics/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "Ajouter des bibliothèques dans l’IDE",
     "text": "Ajouter des bibliothèques dans l’IDE\n\nMenu : Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…\n\nRechercher et installer Servo"
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#matériel-nécessaire",
     "href": "electronics/slides/00-Arduino.html#matériel-nécessaire",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#matériel-nécessaire",
+    "href": "docs/electronics/00-Arduino.html#matériel-nécessaire",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "Matériel Nécessaire",
     "text": "Matériel Nécessaire\n\n\n\n\n\n\n\n\n\nÉlément\nQté\n\n\n\n\nArduino Nano\n1\n\n\nCâble USB\n1\n\n\nBreadboard\n1\n\n\nCâbles Dupont\n~20\n\n\nLED + Résistance\n1\n\n\nBouton + 10kΩ\n1\n\n\nServo SG90\n1\n\n\nMoteur DC\n2\n\n\nModule L298N\n1\n\n\nBatterie (2x 3.7V)\n1"
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#section",
     "href": "electronics/slides/00-Arduino.html#section",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#section",
+    "href": "docs/electronics/00-Arduino.html#section",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Arduino : Installation et projet de base",
     "section": "",
     "text": "LED\n- + → Résistance → D2\n- – → GND\nBouton\n- 1 patte → 5V\n- 1 patte → D3 + résistance → GND\nServo SG90\n- Marron → GND\n- Rouge → 5V\n- Orange → D9\nL298N\n- IN1 → D5\n- IN2 → D6\n- GND → GND Arduino\n- Alim → 9V batterie"
   },
   {
+<<<<<<< HEAD
     "objectID": "electronics/slides/00-Arduino.html#section-1",
     "href": "electronics/slides/00-Arduino.html#section-1",
     "title": "Arduino : Installation et projet de base",
@@ -691,365 +1798,634 @@
   {
     "objectID": "laser-cut/slides/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
     "href": "laser-cut/slides/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
+=======
+    "objectID": "docs/electronics/00-Arduino.html#section-1",
+    "href": "docs/electronics/00-Arduino.html#section-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "```cpp #include &lt;Servo.h&gt;\nServo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;\nvoid setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }\nvoid loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }\n\n\n\n\n\n\n\n \n\n\nListe de tutoriels"
+  },
+  {
+    "objectID": "docs/laser-cut/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
+    "href": "docs/laser-cut/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "But pédagogique de ce tutorial",
     "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences : - Domaine de la découpe laser\n🔨 Savoir-faire : - Utiliser la découpeuse laser\n✍Compéténces: : - Être capable de découper un objet au LF2L"
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#démarrage",
     "href": "laser-cut/slides/01-Ruby400.html#démarrage",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#démarrage",
+    "href": "docs/laser-cut/01-Ruby400.html#démarrage",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "Démarrage",
     "text": "Démarrage\n\n\n\n\n\n\n\nTournez la clé pour démarrer la machine, en position “i”.\nTournez à nouveau comme si vous démarriez une voiture (c’est un mouvement qui revient à la position de départ, comme un ressort)."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#calibration",
     "href": "laser-cut/slides/01-Ruby400.html#calibration",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#calibration",
+    "href": "docs/laser-cut/01-Ruby400.html#calibration",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "Calibration",
     "text": "Calibration\n\n\n\n\n\n\n\n\n\n\n\n\n\nLa machine commencera une série de calibrations et de vérifications. Un message “appareil pas prêt” apparaîtra. Il faut attendre quelques minutes. Il est important de ne pas toucher au capot pendant ce processus. Si vous le faites, la machine affichera une erreur et il faudra tout redémarrer."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section",
     "href": "laser-cut/slides/01-Ruby400.html#section",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section",
+    "href": "docs/laser-cut/01-Ruby400.html#section",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Attendez jusqu’à ce que le message “la file d’attente est vide” apparaisse. À ce moment-là, vous pouvez soulever le capot."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-1",
     "href": "laser-cut/slides/01-Ruby400.html#section-1",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-1",
+    "href": "docs/laser-cut/01-Ruby400.html#section-1",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Le fichier SVG est envoyé à la plateforme en ligne Ruby."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-2",
     "href": "laser-cut/slides/01-Ruby400.html#section-2",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-2",
+    "href": "docs/laser-cut/01-Ruby400.html#section-2",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Les réglages nécessaires sont générés dans le site."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-3",
     "href": "laser-cut/slides/01-Ruby400.html#section-3",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-3",
+    "href": "docs/laser-cut/01-Ruby400.html#section-3",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Configurez la découpe en faisant attention aux couleurs :\n\nRouge : Découpe\nNoir : Gravure"
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-4",
     "href": "laser-cut/slides/01-Ruby400.html#section-4",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-4",
+    "href": "docs/laser-cut/01-Ruby400.html#section-4",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Envoyer le fichier à la liste d’attente de la découpeuse laser."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-5",
     "href": "laser-cut/slides/01-Ruby400.html#section-5",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-5",
+    "href": "docs/laser-cut/01-Ruby400.html#section-5",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "La machine doit être allumée. (retour à la rubrique allumer la machine)"
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-6",
     "href": "laser-cut/slides/01-Ruby400.html#section-6",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-6",
+    "href": "docs/laser-cut/01-Ruby400.html#section-6",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Ouvrez le capot."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-7",
     "href": "laser-cut/slides/01-Ruby400.html#section-7",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-7",
+    "href": "docs/laser-cut/01-Ruby400.html#section-7",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Placez le matériau dans l’angle supérieur droit."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-8",
     "href": "laser-cut/slides/01-Ruby400.html#section-8",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-8",
+    "href": "docs/laser-cut/01-Ruby400.html#section-8",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Déplacez la tête de découpe vers une section où se trouve le matériau."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-9",
     "href": "laser-cut/slides/01-Ruby400.html#section-9",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-9",
+    "href": "docs/laser-cut/01-Ruby400.html#section-9",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Appuyez simultanément sur les flèches haut et bas pour que la machine calibre la hauteur du matériau."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-10",
     "href": "laser-cut/slides/01-Ruby400.html#section-10",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-10",
+    "href": "docs/laser-cut/01-Ruby400.html#section-10",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Attention à sélectionner l’option “point d’accroche au laser” : - Avec cette option, la buse commencera à découper à partir de la position actuelle de la machine. - Sans cette option, le processus commencera depuis l’origine prédéfinie (angle supérieur gauche)."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-11",
     "href": "laser-cut/slides/01-Ruby400.html#section-11",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-11",
+    "href": "docs/laser-cut/01-Ruby400.html#section-11",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Pour effectuer le nettoyage, il faut prendre en compte les éléments suivants :\n\nManipuler avec précaution la lentille et le miroir.\nLes tenir avec la paume de la main pour éviter qu’ils ne tombent.\nPlacer un morceau de serviette en dessous pour amortir une éventuelle chute.\nN’utiliser que les matériaux fournis par le fabmanager.\nUtiliser un tissu spécial pour le nettoyage, fourni avec la machine. Ce tissu ne doit être utilisé que sur un seul côté de chaque lentille.\nLe liquide de nettoyage est conçu par le fabricant et est compatible avec les optiques de la machine."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#nettoyage-du-miroir",
     "href": "laser-cut/slides/01-Ruby400.html#nettoyage-du-miroir",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#nettoyage-du-miroir",
+    "href": "docs/laser-cut/01-Ruby400.html#nettoyage-du-miroir",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "Nettoyage du miroir",
     "text": "Nettoyage du miroir\nManipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-12",
     "href": "laser-cut/slides/01-Ruby400.html#section-12",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-12",
+    "href": "docs/laser-cut/01-Ruby400.html#section-12",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Dévissez les deux vis du miroir à la main."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-13",
     "href": "laser-cut/slides/01-Ruby400.html#section-13",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-13",
+    "href": "docs/laser-cut/01-Ruby400.html#section-13",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Vérifiez les vis et assurez-vous que le miroir est bien sécurisé avant de le retirer."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-14",
     "href": "laser-cut/slides/01-Ruby400.html#section-14",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-14",
+    "href": "docs/laser-cut/01-Ruby400.html#section-14",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Retirez délicatement le miroir et placez-le dans un endroit sécurisé."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-15",
     "href": "laser-cut/slides/01-Ruby400.html#section-15",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-15",
+    "href": "docs/laser-cut/01-Ruby400.html#section-15",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Prenez un bord du papier spécial."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-16",
     "href": "laser-cut/slides/01-Ruby400.html#section-16",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-16",
+    "href": "docs/laser-cut/01-Ruby400.html#section-16",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Pliez le papier plusieurs fois, en veillant à ne pas toucher les parties en contact avec le miroir."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-17",
     "href": "laser-cut/slides/01-Ruby400.html#section-17",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-17",
+    "href": "docs/laser-cut/01-Ruby400.html#section-17",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Appliquez une goutte de liquide spécial sur le miroir."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-18",
     "href": "laser-cut/slides/01-Ruby400.html#section-18",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-18",
+    "href": "docs/laser-cut/01-Ruby400.html#section-18",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Tenez la paume de votre main en dessous pour garantir que le miroir ne tombe pas."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-19",
     "href": "laser-cut/slides/01-Ruby400.html#section-19",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-19",
+    "href": "docs/laser-cut/01-Ruby400.html#section-19",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Avec le papier nettoyant, effectuez des mouvements circulaires doux, du centre vers l’extérieur."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-20",
     "href": "laser-cut/slides/01-Ruby400.html#section-20",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-20",
+    "href": "docs/laser-cut/01-Ruby400.html#section-20",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Assurez-vous qu’il ne reste aucune trace de graisse."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-21",
     "href": "laser-cut/slides/01-Ruby400.html#section-21",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-21",
+    "href": "docs/laser-cut/01-Ruby400.html#section-21",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Le liquide contient de l’alcool, attendez son évaporation complète."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-22",
     "href": "laser-cut/slides/01-Ruby400.html#section-22",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-22",
+    "href": "docs/laser-cut/01-Ruby400.html#section-22",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Replacez le miroir en respectant son orientation (la partie plate doit être à l’intérieur du buzz)."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-23",
     "href": "laser-cut/slides/01-Ruby400.html#section-23",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-23",
+    "href": "docs/laser-cut/01-Ruby400.html#section-23",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Maintenez le miroir en place tout en resserrant les vis, sans trop forcer."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#nettoyage-de-la-lentille",
     "href": "laser-cut/slides/01-Ruby400.html#nettoyage-de-la-lentille",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#nettoyage-de-la-lentille",
+    "href": "docs/laser-cut/01-Ruby400.html#nettoyage-de-la-lentille",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "Nettoyage de la lentille :",
     "text": "Nettoyage de la lentille :\n⚠️ Manipulez toujours les lentilles et miroirs avec soin, car ce sont des pièces très délicates."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-24",
     "href": "laser-cut/slides/01-Ruby400.html#section-24",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-24",
+    "href": "docs/laser-cut/01-Ruby400.html#section-24",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Dévissez la vis rouge pour retirer la lentille noire."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-25",
     "href": "laser-cut/slides/01-Ruby400.html#section-25",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-25",
+    "href": "docs/laser-cut/01-Ruby400.html#section-25",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Tenez la paume de votre main en dessous pour éviter que la lentille ne tombe."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-26",
     "href": "laser-cut/slides/01-Ruby400.html#section-26",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-26",
+    "href": "docs/laser-cut/01-Ruby400.html#section-26",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "La lentille comporte une flèche et la mention “TOP” indiquant sa position correcte."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-27",
     "href": "laser-cut/slides/01-Ruby400.html#section-27",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-27",
+    "href": "docs/laser-cut/01-Ruby400.html#section-27",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Nettoyez les deux côtés de la lentille, en changeant de tissu à chaque fois."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-28",
     "href": "laser-cut/slides/01-Ruby400.html#section-28",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-28",
+    "href": "docs/laser-cut/01-Ruby400.html#section-28",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Découpez un morceau de tissu propre."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-29",
     "href": "laser-cut/slides/01-Ruby400.html#section-29",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-29",
+    "href": "docs/laser-cut/01-Ruby400.html#section-29",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Pliez le tissu plusieurs fois."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-30",
     "href": "laser-cut/slides/01-Ruby400.html#section-30",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-30",
+    "href": "docs/laser-cut/01-Ruby400.html#section-30",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Appliquez une goutte de liquide sur la lentille et répartissez-le avec la main."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-31",
     "href": "laser-cut/slides/01-Ruby400.html#section-31",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-31",
+    "href": "docs/laser-cut/01-Ruby400.html#section-31",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Effectuez des mouvements circulaires doux, du centre vers l’extérieur."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-32",
     "href": "laser-cut/slides/01-Ruby400.html#section-32",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-32",
+    "href": "docs/laser-cut/01-Ruby400.html#section-32",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Vérifiez sous la lumière pour s’assurer qu’il ne reste aucun résidu, empreinte ou trace de graisse."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-33",
     "href": "laser-cut/slides/01-Ruby400.html#section-33",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-33",
+    "href": "docs/laser-cut/01-Ruby400.html#section-33",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Replacez la lentille et le miroir en respectant la bonne orientation (flèche et “TOP” sur la lentille)."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-34",
     "href": "laser-cut/slides/01-Ruby400.html#section-34",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-34",
+    "href": "docs/laser-cut/01-Ruby400.html#section-34",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Serrez les vis sans forcer, juste assez pour maintenir la pièce en place."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#nettoyage-de-la-buse-nozzle",
     "href": "laser-cut/slides/01-Ruby400.html#nettoyage-de-la-buse-nozzle",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#nettoyage-de-la-buse-nozzle",
+    "href": "docs/laser-cut/01-Ruby400.html#nettoyage-de-la-buse-nozzle",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "Nettoyage de la buse (nozzle) :",
     "text": "Nettoyage de la buse (nozzle) :"
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-35",
     "href": "laser-cut/slides/01-Ruby400.html#section-35",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-35",
+    "href": "docs/laser-cut/01-Ruby400.html#section-35",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Dévissez la buse."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-36",
     "href": "laser-cut/slides/01-Ruby400.html#section-36",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-36",
+    "href": "docs/laser-cut/01-Ruby400.html#section-36",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Appliquez de l’alcool isopropylique sur un morceau de tissu propre."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-37",
     "href": "laser-cut/slides/01-Ruby400.html#section-37",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-37",
+    "href": "docs/laser-cut/01-Ruby400.html#section-37",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Nettoyez les résidus de résine et d’acrylique présents sur la buse."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-38",
     "href": "laser-cut/slides/01-Ruby400.html#section-38",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-38",
+    "href": "docs/laser-cut/01-Ruby400.html#section-38",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Revissez la buse."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-39",
     "href": "laser-cut/slides/01-Ruby400.html#section-39",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-39",
+    "href": "docs/laser-cut/01-Ruby400.html#section-39",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Dévissez les vis situées en diagonale (inférieure droite et supérieure gauche)."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-40",
     "href": "laser-cut/slides/01-Ruby400.html#section-40",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-40",
+    "href": "docs/laser-cut/01-Ruby400.html#section-40",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Soulevez la grille et placez-la à côté de la machine."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-41",
     "href": "laser-cut/slides/01-Ruby400.html#section-41",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-41",
+    "href": "docs/laser-cut/01-Ruby400.html#section-41",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Aspirez les résidus de matériau avec l’aspirateur."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-42",
     "href": "laser-cut/slides/01-Ruby400.html#section-42",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-42",
+    "href": "docs/laser-cut/01-Ruby400.html#section-42",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Replacez la grille avec précaution."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-43",
     "href": "laser-cut/slides/01-Ruby400.html#section-43",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-43",
+    "href": "docs/laser-cut/01-Ruby400.html#section-43",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Revissez les vis."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-44",
     "href": "laser-cut/slides/01-Ruby400.html#section-44",
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-44",
+    "href": "docs/laser-cut/01-Ruby400.html#section-44",
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
     "title": "Découpe Laser",
     "section": "",
     "text": "Remontez la base de la machine."
   },
   {
+<<<<<<< HEAD
     "objectID": "laser-cut/slides/01-Ruby400.html#section-45",
     "href": "laser-cut/slides/01-Ruby400.html#section-45",
     "title": "Découpe Laser",
     "section": "",
     "text": "Fermez le capot."
+=======
+    "objectID": "docs/laser-cut/01-Ruby400.html#section-45",
+    "href": "docs/laser-cut/01-Ruby400.html#section-45",
+    "title": "Découpe Laser",
+    "section": "",
+    "text": "Fermez le capot.\n\n\n\n\n\n\n\n\n\n\n \n\n\nRuby Speedy 400"
+>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e
   }
 ]

@@ -6,21 +6,16 @@
 <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<<<<<<<< HEAD:docs/electronics/slides/00-Arduino.html
-<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.6.42">
-========
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.js" defer="true"></script>
 <link href="../../site_libs/quarto-contrib/reveal-header-1.0.0/add_header.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/grid-htext-1.0.0/grid_htext.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/reveal-auto-agenda-0.0.3/reveal-auto-agenda.css" rel="stylesheet"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.39">
->>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e:docs/docs/electronics/00-Arduino.html
 
-  <meta name="author" content="Paola Vazquez">
-  <meta name="dcterms.date" content="2025-04-24">
-  <title>Tutoriels LF2L – Arduino : Installation et projet de base</title>
+  <meta name="author" content="Paola">
+  <meta name="dcterms.date" content="2024-06-12">
+  <title>Arduino : Contrôler un moteur DC avec une carte Romeo</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -39,11 +34,7 @@
       vertical-align: middle;
     }
   </style>
-<<<<<<<< HEAD:docs/electronics/slides/00-Arduino.html
-  <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-a6202e1f26bb36390bb0c49e68ee4752.css">
-========
   <link rel="stylesheet" href="../../site_libs/revealjs/dist/theme/quarto-606e93a2ce42e6daabb767dd8d2b1fe9.css">
->>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e:docs/docs/electronics/00-Arduino.html
   <link href="../../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -141,13 +132,13 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Arduino : Installation et projet de base</h1>
+  <h1 class="title">Arduino : Contrôler un moteur DC avec une carte Romeo</h1>
   <p class="subtitle"><a href="../..">Liste de tutoriels</a></p>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Paola Vazquez 
+Paola 
 </div>
         <p class="quarto-title-affiliation">
             Université de Lorraine | ENSGSI
@@ -155,137 +146,44 @@ Paola Vazquez
     </div>
 </div>
 
-  <p class="date">April 24, 2025</p>
-</section><section id="TOC">
-<nav role="doc-toc"> 
-<h2 id="toc-title">But de ce tutoriel</h2>
-<ul>
-<li><a href="#/installation-de-lide-arduino" id="/toc-installation-de-lide-arduino">Installation de l’IDE Arduino</a></li>
-<li><a href="#/pilotes-et-bibliothèques-nécessaires" id="/toc-pilotes-et-bibliothèques-nécessaires">Pilotes et bibliothèques nécessaires</a></li>
-<li><a href="#/schéma-de-connexion" id="/toc-schéma-de-connexion">Schéma de connexion</a></li>
-<li><a href="#/code-arduino" id="/toc-code-arduino">Code Arduino</a></li>
-</ul>
-</nav>
+  <p class="date">2024-06-12</p>
 </section>
 <section id="but-pédagogique-de-ce-tutoriel" class="title-slide slide level2 center">
 <h2>But pédagogique de ce tutoriel</h2>
 <ol type="1">
 <li>🧠 <strong>Connaissances</strong> :
 <ul>
-<li>Comprendre le fonctionnement d’une carte Arduino</li>
+<li>Comprendre le fonctionnement d’un moteur DC et d’un pont en H (H-bridge)</li>
 </ul></li>
 <li>🔧 <strong>Savoir-faire</strong> :
 <ul>
-<li>Écrire, téléverser et tester un programme sur Arduino</li>
+<li>Contrôler le sens et la vitesse d’un moteur DC avec PWM</li>
 </ul></li>
 <li>✍ <strong>Compétences</strong> :
 <ul>
-<li>Réaliser un projet avec LED, bouton, servo et moteurs</li>
+<li>Intégrer un moteur DC dans un projet Arduino avec carte Romeo</li>
 </ul></li>
 </ol>
 </section>
 
-<section>
-<section id="installation-de-lide-arduino" class="title-slide slide level1 center">
-<h1>Installation de l’IDE Arduino</h1>
-
-</section>
-<section id="installation-de-lide-arduino-1" class="title-slide slide level2 center">
-<h2>Installation de l’IDE Arduino</h2>
-<div>
-
+<section id="matériel-nécessaire" class="title-slide slide level1 agenda-slide center">
+<h1>Matériel Nécessaire</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
 </div>
-<div class="quarto-layout-panel" data-layout="[60,40]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 60.0%;justify-content: flex-start;">
-<ol type="1">
-<li>Aller sur <a href="https://arduino.cc/software">arduino.cc/software</a><br>
-</li>
-<li>Télécharger et installer pour Windows, Mac ou Linux<br>
-</li>
-<li>Ouvrir l’IDE après installation<br>
-</li>
+<div class="agenda">
+<ol>
+<li><div class="agenda-active">
+<p>Matériel Nécessaire</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Schéma de Connexion</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Code Arduino</p>
+</div></li>
 </ol>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 40.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/7.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-
-<section id="connexion-de-la-carte-arduino" class="title-slide slide level2 center">
-<h2>Connexion de la carte Arduino</h2>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout="[50,50]">
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
-<ul>
-<li>Branchez la carte avec un câble USB<br>
-</li>
-<li>Dans l’IDE :
-<ul>
-<li><strong>Outils &gt; Type de carte &gt; Arduino Nano</strong><br>
-</li>
-<li><strong>Outils &gt; Port &gt; COM3</strong> <em>(ou selon le système)</em></li>
-</ul></li>
-</ul>
-<div class="callout callout-note callout-titled callout-style-default">
-<div class="callout-body">
-<div class="callout-title">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<p><strong>Note</strong></p>
-</div>
-<div class="callout-content">
-<p>💡 Sous Windows, utilisez le <strong>Gestionnaire de périphériques</strong> pour identifier le port.</p>
-</div>
-</div>
-</div>
-</div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="figures/7.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div>
-</div>
-</div>
-</section>
-</section>
-<section>
-<section id="pilotes-et-bibliothèques-nécessaires" class="title-slide slide level1 center">
-<h1>Pilotes et bibliothèques nécessaires</h1>
-
-</section>
-<section id="pilote-ch340-pour-clones" class="title-slide slide level2 center">
-<h2>Pilote CH340 (pour clones)</h2>
-<ul>
-<li><a href="https://sparks.gogo.co.nz/assets/_site_/downloads/CH34x_Install_Windows_v3_4.zip">Télécharger ici (Windows)</a><br>
-</li>
-<li><a href="https://github.com/adrianmihalko/ch340g-ch34g-ch34x-mac-os-x-driver">Télécharger pour Mac</a></li>
-</ul>
-</section>
-
-<section id="ajouter-des-bibliothèques-dans-lide" class="title-slide slide level2 center">
-<h2>Ajouter des bibliothèques dans l’IDE</h2>
-<ol type="1">
-<li>Menu : <strong>Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…</strong><br>
-</li>
-<li>Rechercher et installer <strong>Servo</strong></li>
-</ol>
-</section>
-
-<section id="matériel-nécessaire" class="title-slide slide level2 center">
-<h2>Matériel Nécessaire</h2>
 <div>
 
 </div>
@@ -301,43 +199,23 @@ Paola Vazquez
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">Arduino Nano</td>
+<td style="text-align: left;">Carte Romeo (DFRobot)</td>
 <td style="text-align: left;">1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Câble USB</td>
+<td style="text-align: left;">Motoréducteur RS PRO DC</td>
 <td style="text-align: left;">1</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Breadboard</td>
+<td style="text-align: left;">Alimentation externe 12V DC</td>
 <td style="text-align: left;">1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Câbles Dupont</td>
-<td style="text-align: left;">~20</td>
+<td style="text-align: left;">Câbles de connexion</td>
+<td style="text-align: left;">~4</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">LED + Résistance</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Bouton + 10kΩ</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Servo SG90</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Moteur DC</td>
-<td style="text-align: left;">2</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Module L298N</td>
-<td style="text-align: left;">1</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Batterie (2x 3.7V)</td>
+<td style="text-align: left;">PC avec Arduino IDE</td>
 <td style="text-align: left;">1</td>
 </tr>
 </tbody>
@@ -346,7 +224,69 @@ Paola Vazquez
 <div class="quarto-layout-cell" style="flex-basis: 66.0%;justify-content: center;">
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="figures/7.png" class="quarto-figure quarto-figure-center"></p>
+<p><img data-src="figures/romeo-motor.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section>
+<section id="schéma-de-connexion" class="title-slide slide level1 agenda-slide center">
+<h1>Schéma de Connexion</h1>
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Matériel Nécessaire</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Schéma de Connexion</p>
+</div></li>
+<li><div class="agenda-inactive agenda-post-active">
+<p>Code Arduino</p>
+</div></li>
+</ol>
+</div>
+</section>
+<section id="connexion-du-moteur" class="title-slide slide level2 center">
+<h2>Connexion du moteur</h2>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout="[50,50]">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<ul>
+<li>Moteur → Borniers <strong>M1</strong> de la carte Romeo<br>
+</li>
+<li>Alimentation 12V → <strong>VIN</strong> et <strong>GND</strong> de la Romeo<br>
+</li>
+<li>USB → pour programmer la carte<br>
+</li>
+<li>Le sens de rotation dépend du câblage M1</li>
+</ul>
+<div class="callout callout-tip callout-titled callout-style-default">
+<div class="callout-body">
+<div class="callout-title">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<p><strong>Tip</strong></p>
+</div>
+<div class="callout-content">
+<p>🔁 Inverser les fils M1 si le sens de rotation est inversé</p>
+</div>
+</div>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="figures/motor-conn.png" class="quarto-figure quarto-figure-center"></p>
 </figure>
 </div>
 </div>
@@ -355,44 +295,37 @@ Paola Vazquez
 </section>
 </section>
 <section>
-<section id="schéma-de-connexion" class="title-slide slide level1 center">
-<h1>Schéma de connexion</h1>
-
-</section>
-<section id="section" class="title-slide slide level2 center">
-<h2></h2>
-<p>LED<br>
-- + → Résistance → D2<br>
-- – → GND</p>
-<p>Bouton<br>
-- 1 patte → 5V<br>
-- 1 patte → D3 + résistance → GND</p>
-<p>Servo SG90<br>
-- Marron → GND<br>
-- Rouge → 5V<br>
-- Orange → D9</p>
-<p>L298N<br>
-- IN1 → D5<br>
-- IN2 → D6<br>
-- GND → GND Arduino<br>
-- Alim → 9V batterie</p>
-</section>
-</section>
-<section>
-<section id="code-arduino" class="title-slide slide level1 center">
+<section id="code-arduino" class="title-slide slide level1 agenda-slide center">
 <h1>Code Arduino</h1>
-
+<div class="agenda-heading">
+<p>Sommaire</p>
+</div>
+<div class="agenda">
+<ol>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Matériel Nécessaire</p>
+</div></li>
+<li><div class="agenda-inactive agenda-pre-active">
+<p>Schéma de Connexion</p>
+</div></li>
+<li><div class="agenda-active">
+<p>Code Arduino</p>
+</div></li>
+</ol>
+</div>
 </section>
-<section id="section-1" class="title-slide slide level2 center">
-<h2></h2>
-<p>```cpp #include &lt;Servo.h&gt;</p>
-<p>Servo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;</p>
-<p>void setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }</p>
-<p>void loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }</p>
+<section id="contrôle-de-la-vitesse-et-du-sens" class="title-slide slide level2 center">
+<h2>Contrôle de la vitesse et du sens</h2>
+<p>```cpp // Contrôle d’un moteur DC via la carte Romeo</p>
+<p>const int IN1 = 4; // Contrôle du sens const int IN2 = 5;<br>
+const int ENA = 6; // Vitesse via PWM</p>
+<p>void setup() { pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENA, OUTPUT); }</p>
+<p>void loop() { // Tourne dans un sens digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENA, 150); // Vitesse moyenne (0–255) delay(2000);</p>
+<p>// Arrêt analogWrite(ENA, 0); delay(1000);</p>
+<p>// Sens inverse digitalWrite(IN1, LOW); digitalWrite(IN2, HIGH); analogWrite(ENA, 200); delay(2000);</p>
+<p>// Arrêt analogWrite(ENA, 0); delay(2000); }</p>
 
 
-<<<<<<<< HEAD:docs/electronics/slides/00-Arduino.html
-========
 <div class="reveal-header">
 <div class="header-logo">
 <img data-src="">
@@ -407,14 +340,13 @@ Paola Vazquez
 <p> </p>
 </div>
 </div>
->>>>>>>> a231c40ce58bc23c15e6c4ba6183c77a313dcf0e:docs/docs/electronics/00-Arduino.html
 </section>
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
-<p><img src="../../images/LF2L-Vertical.png" class="slide-logo"></p>
+<p><img src="../images/LF2L-Vertical.png" class="slide-logo"></p>
 <div class="footer footer-default">
-<p>Tutoriel 2: Comment utiliser une carte Arduino</p>
+<p>Tutoriel 3: Utilisation d’un moteur DC avec la carte Romeo</p>
 </div>
 </div></div>
 
