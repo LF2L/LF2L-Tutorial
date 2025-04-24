@@ -1,12 +1,8 @@
 ---
 title: "Arduino : Contrôler un moteur DC avec une carte Romeo"
 subtitle: "[Liste de tutoriels](/)"  
-email: "xxx@univ-lorraine.fr"
-institute: "Université de Lorraine | ENSGSI"
-author: 
-  - "Paola"
-date: 06-12-2024
-
+metadata-files:
+  - _metadata.yml
 format:
   revealjs:
     footer: 'Tutoriel 3: Utilisation d’un moteur DC avec la carte Romeo'

@@ -13,7 +13,6 @@ format: html
 
 ## Etape 1
 
-
 ```{=html}
 <iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides/00-Arduino.html"></iframe>
 ```
@@ -25,4 +24,8 @@ format: html
 
 
 
-## Etape 14
+### Arduino : Contrôler un moteur DC avec une carte Romeo
+
+```{=html}
+<iframe width="100%" height="533px" style="border:2px solid #dee2e6;" src="slides/01-ArduinoROMEO.html"></iframe>
+```
