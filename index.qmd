@@ -17,6 +17,12 @@ listing:
     sort: "date desc"
     type: grid
     categories: false
+  - id: electronics
+    contents: "electronics/*.qmd"
+    max-items: 3
+    sort: "date desc"
+    type: grid
+    categories: false
   
 ---
 

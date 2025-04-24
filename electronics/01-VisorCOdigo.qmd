@@ -1,0 +1,22 @@
+---
+title: "Arduino paso a paso"
+format:
+  revealjs:
+    code-line-numbers: true
+    code-overflow: scroll
+    code-copy: true
+    slide-number: true
+    transition: fade
+---
+## Código Arduino explicado
+
+### Paso 1: Declaraciones
+
+```cpp
+#include <Servo.h>
+
+Servo monServo;
+int bouton = 3;
+int led = 2;
+int moteur1 = 5;
+int moteur2 = 6;

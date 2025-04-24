@@ -2917,5 +2917,96 @@
     "title": "Découpe Laser",
     "section": "",
     "text": "🧠 Connaisences : - Domaine de la découpe laser\n🔨 Savoir-faire : - Utiliser la découpeuse laser\n✍Compéténces: : - Être capable de découper un objet au LF2L"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#objectifs-pédagogiques",
+    "href": "electronics/00-Arduino.html#objectifs-pédagogiques",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Objectifs pédagogiques",
+    "text": "Objectifs pédagogiques\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#pilote-ch340-pour-clones",
+    "href": "electronics/00-Arduino.html#pilote-ch340-pour-clones",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Pilote CH340 (pour clones)",
+    "text": "Pilote CH340 (pour clones)\n\nTélécharger ici (Windows)\n\nTélécharger pour Mac"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "href": "electronics/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Ajouter des bibliothèques dans l’IDE",
+    "text": "Ajouter des bibliothèques dans l’IDE\n\nMenu : Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…\n\nRechercher et installer Servo"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#led",
+    "href": "electronics/00-Arduino.html#led",
+    "title": "Arduino : Installation et projet de base",
+    "section": "LED",
+    "text": "LED\n\n\n→ Résistance → D2\n\n\n– → GND"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#bouton",
+    "href": "electronics/00-Arduino.html#bouton",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Bouton",
+    "text": "Bouton\n\n1 patte → 5V\n\n1 patte → D3 + résistance → GND"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#servo-sg90",
+    "href": "electronics/00-Arduino.html#servo-sg90",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Servo SG90",
+    "text": "Servo SG90\n\nMarron → GND\n\nRouge → 5V\n\nOrange → D9"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#l298n",
+    "href": "electronics/00-Arduino.html#l298n",
+    "title": "Arduino : Installation et projet de base",
+    "section": "L298N",
+    "text": "L298N\n\nIN1 → D5\n\nIN2 → D6\n\nGND → GND Arduino\n\nAlim → 9V batterie"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "href": "electronics/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Arduino : Installation et projet de base",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#section",
+    "href": "electronics/00-Arduino.html#section",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "LED\n- + → Résistance → D2\n- – → GND\nBouton\n- 1 patte → 5V\n- 1 patte → D3 + résistance → GND\nServo SG90\n- Marron → GND\n- Rouge → 5V\n- Orange → D9\nL298N\n- IN1 → D5\n- IN2 → D6\n- GND → GND Arduino\n- Alim → 9V batterie"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#connexion-de-la-carte-arduino",
+    "href": "electronics/00-Arduino.html#connexion-de-la-carte-arduino",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Connexion de la carte Arduino",
+    "text": "Connexion de la carte Arduino\n\n\n\n\n\n\n\nBranchez la carte avec un câble USB\n\nDans l’IDE :\n\nOutils &gt; Type de carte &gt; Arduino Nano\n\nOutils &gt; Port &gt; COM3 (ou selon le système)\n\n\n\n\n\n\n\n\nNote\n\n\n💡 Sous Windows, utilisez le Gestionnaire de périphériques pour identifier le port."
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#installation-de-lide-arduino-1",
+    "href": "electronics/00-Arduino.html#installation-de-lide-arduino-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Installation de l’IDE Arduino",
+    "text": "Installation de l’IDE Arduino\n\n\n\n\n\n\n\nAller sur arduino.cc/software\n\nTélécharger et installer pour Windows, Mac ou Linux\n\nOuvrir l’IDE après installation"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#matériel-nécessaire",
+    "href": "electronics/00-Arduino.html#matériel-nécessaire",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Matériel Nécessaire",
+    "text": "Matériel Nécessaire\n\n\n\n\n\n\n\n\n\nÉlément\nQté\n\n\n\n\nArduino Nano\n1\n\n\nCâble USB\n1\n\n\nBreadboard\n1\n\n\nCâbles Dupont\n~20\n\n\nLED + Résistance\n1\n\n\nBouton + 10kΩ\n1\n\n\nServo SG90\n1\n\n\nMoteur DC\n2\n\n\nModule L298N\n1\n\n\nBatterie (2x 3.7V)\n1"
+  },
+  {
+    "objectID": "electronics/00-Arduino.html#section-1",
+    "href": "electronics/00-Arduino.html#section-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "```cpp #include &lt;Servo.h&gt;\nServo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;\nvoid setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }\nvoid loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }\n\n\n\n\n\n\n\n \n\n\nListe de tutoriels"
   }
 ]
