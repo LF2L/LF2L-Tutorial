@@ -1,496 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tutoriels au Lorraine Fab Living labs",
-    "section": "",
-    "text": "Esto es index\n\n\n\n\n Retour au sommetRéutilisationCC BY-SA 4.0"
-  },
-  {
-    "objectID": "laser-cut/tutoriels.html",
-    "href": "laser-cut/tutoriels.html",
-    "title": "Tutoriels",
-    "section": "",
-    "text": "```",
-    "crumbs": [
-      "Home",
-      "Découpe laser",
-      "Tutoriels"
-    ]
-  },
-  {
-    "objectID": "laser-cut/tutoriels.html#comment-découper-depuis-onshape",
-    "href": "laser-cut/tutoriels.html#comment-découper-depuis-onshape",
-    "title": "Tutoriels",
-    "section": "",
-    "text": "```",
-    "crumbs": [
-      "Home",
-      "Découpe laser",
-      "Tutoriels"
-    ]
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
-    "href": "printing/slides/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
-    "title": "Tutoriel d’utilisation :",
-    "section": "But pédagogique de ce tutoriel",
-    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser la machine d’impression 3D Flashforge Adventurer 5M Pro\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#comment-imprimer-en-3d-1",
-    "href": "printing/slides/01-flashforge.html#comment-imprimer-en-3d-1",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Comment imprimer en 3D ?",
-    "text": "Comment imprimer en 3D ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl faut trois étapes:\n1) Model CAO → 2) Processus de ‘Slicing’ → 3) Fichier .Gcode"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#modèle-cao",
-    "href": "printing/slides/01-flashforge.html#modèle-cao",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Modèle CAO",
-    "text": "Modèle CAO\n\n\n\n\n\n\n\nBut\n\n\nObtenir le modèle CAO utile pour l’impression 3D."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#processus-de-slicing",
-    "href": "printing/slides/01-flashforge.html#processus-de-slicing",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Processus de Slicing",
-    "text": "Processus de Slicing\n\n\n\n\n\n\n\nBut\n\n\nTransformer le modèle .STL en un fichier machine .GCODE"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-1",
-    "href": "printing/slides/01-flashforge.html#section-1",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Enregistrez le fichier (format G-code) sur une clé USB compatible.\n\n\n\n\n\nAu LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-2",
-    "href": "printing/slides/01-flashforge.html#section-2",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Assurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-3",
-    "href": "printing/slides/01-flashforge.html#section-3",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Nettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-4",
-    "href": "printing/slides/01-flashforge.html#section-4",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Vérifiez que l’imprimante est connectée à une prise électrique.\nAppuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-5",
-    "href": "printing/slides/01-flashforge.html#section-5",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Attendez que le système soit complètement initialisé avant de continuer."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-6",
-    "href": "printing/slides/01-flashforge.html#section-6",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "L’imprimante est bien allumée quand ce écran est montrée"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-7",
-    "href": "printing/slides/01-flashforge.html#section-7",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Placez le filament à l’arrière de l’imprimante."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-8",
-    "href": "printing/slides/01-flashforge.html#section-8",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Ouvrez la porte du haut"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
-    "href": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
-    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-9",
-    "href": "printing/slides/01-flashforge.html#section-9",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament”."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
-    "href": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Attendez que la température atteigne 220 °C",
-    "text": "Attendez que la température atteigne 220 °C"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-10",
-    "href": "printing/slides/01-flashforge.html#section-10",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
-    "href": "printing/slides/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
-    "title": "Tutoriel d’utilisation :",
-    "section": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.",
-    "text": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-11",
-    "href": "printing/slides/01-flashforge.html#section-11",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Retirez le filament imprimé."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-12",
-    "href": "printing/slides/01-flashforge.html#section-12",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Ouvrez la porte du haut"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-13",
-    "href": "printing/slides/01-flashforge.html#section-13",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Retirez le tube blanc et coupez l’ancien filament à l’aide d’une pince\n\n\n\n\n\nRemarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n’est pas le cas, demandez-les aux FabManagers."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-14",
-    "href": "printing/slides/01-flashforge.html#section-14",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l’empêcher de se dérouler"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-15",
-    "href": "printing/slides/01-flashforge.html#section-15",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Placez le nouveau filament sur la base située à l’arrière de l’imprimante."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
-    "href": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
-    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-16",
-    "href": "printing/slides/01-flashforge.html#section-16",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament” et “Démarrer”"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
-    "href": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
-    "title": "Tutoriel d’utilisation :",
-    "section": "Attendez que la température atteigne 220 °C",
-    "text": "Attendez que la température atteigne 220 °C"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-17",
-    "href": "printing/slides/01-flashforge.html#section-17",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
-    "href": "printing/slides/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
-    "title": "Tutoriel d’utilisation :",
-    "section": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus.",
-    "text": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-18",
-    "href": "printing/slides/01-flashforge.html#section-18",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Retirez le filament imprimé."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-19",
-    "href": "printing/slides/01-flashforge.html#section-19",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-20",
-    "href": "printing/slides/01-flashforge.html#section-20",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-21",
-    "href": "printing/slides/01-flashforge.html#section-21",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-22",
-    "href": "printing/slides/01-flashforge.html#section-22",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Appuyez sur le bouton “Imprimer” et confirmez votre sélection."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
-    "href": "printing/slides/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
-    "title": "Tutoriel d’utilisation :",
-    "section": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.",
-    "text": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-23",
-    "href": "printing/slides/01-flashforge.html#section-23",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Observez l’impression de la première couche :"
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-24",
-    "href": "printing/slides/01-flashforge.html#section-24",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Assurez-vous que le filament adhère correctement au plateau d’impression."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-25",
-    "href": "printing/slides/01-flashforge.html#section-25",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-26",
-    "href": "printing/slides/01-flashforge.html#section-26",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-27",
-    "href": "printing/slides/01-flashforge.html#section-27",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut."
-  },
-  {
-    "objectID": "printing/slides/01-flashforge.html#section-28",
-    "href": "printing/slides/01-flashforge.html#section-28",
-    "title": "Tutoriel d’utilisation :",
-    "section": "",
-    "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#but-pédagogique-de-ce-tutorial",
-    "href": "printing/slides/00-introduction.html#but-pédagogique-de-ce-tutorial",
-    "title": "Impression 3D",
-    "section": "But pédagogique de ce tutorial",
-    "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser les machines d’impression 3D\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#quest-ce-que-limpression-3d",
-    "href": "printing/slides/00-introduction.html#quest-ce-que-limpression-3d",
-    "title": "Impression 3D",
-    "section": "Qu’est-ce que l’impression 3D ?",
-    "text": "Qu’est-ce que l’impression 3D ?\n\n\n\n\n\n\nL’impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d’être envoyé à la machine.\nContrairement à d’autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#technologies-et-matériaux-principaux",
-    "href": "printing/slides/00-introduction.html#technologies-et-matériaux-principaux",
-    "title": "Impression 3D",
-    "section": "Technologies et matériaux principaux",
-    "text": "Technologies et matériaux principaux"
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#applications-du-pla",
-    "href": "printing/slides/00-introduction.html#applications-du-pla",
-    "title": "Impression 3D",
-    "section": "Applications du PLA",
-    "text": "Applications du PLA\n\n\n\n\n\n\n\nObjets décoratifs ou artistiques.\n\nPrototypes pour des projets personnels.\n\nOrganisateurs et accessoires du quotidien.\n\nPièces de rechange non structurelles."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression",
-    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression",
-    "title": "Impression 3D",
-    "section": "Pas à suivre pour l’impression:",
-    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-1",
-    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-1",
-    "title": "Impression 3D",
-    "section": "Pas à suivre pour l’impression:",
-    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-2",
-    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-2",
-    "title": "Impression 3D",
-    "section": "Pas à suivre pour l’impression:",
-    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-3",
-    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-3",
-    "title": "Impression 3D",
-    "section": "Pas à suivre pour l’impression:",
-    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-4",
-    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-4",
-    "title": "Impression 3D",
-    "section": "Pas à suivre pour l’impression:",
-    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-5",
-    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-5",
-    "title": "Impression 3D",
-    "section": "Pas à suivre pour l’impression:",
-    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#mauvaise-adhérence-de-la-première-couche",
-    "href": "printing/slides/00-introduction.html#mauvaise-adhérence-de-la-première-couche",
-    "title": "Impression 3D",
-    "section": "1. Mauvaise adhérence de la première couche :",
-    "text": "1. Mauvaise adhérence de la première couche :\n\nNivelez et nettoyez le plateau d’impression.\n\nUtilisez de la colle en bâton ou un ruban bleu pour améliorer l’adhésion."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#bouchage-du-filament",
-    "href": "printing/slides/00-introduction.html#bouchage-du-filament",
-    "title": "Impression 3D",
-    "section": "2. Bouchage du filament :",
-    "text": "2. Bouchage du filament :\n\nNettoyez régulièrement l’extrudeur.\n\nÉvitez d’utiliser du filament humide."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#déplacement-des-couches",
-    "href": "printing/slides/00-introduction.html#déplacement-des-couches",
-    "title": "Impression 3D",
-    "section": "3. Déplacement des couches :",
-    "text": "3. Déplacement des couches :\n\nAssurez-vous que les courroies soient tendues.\n\nLubrifiez les guides."
-  },
-  {
-    "objectID": "printing/slides/00-introduction.html#lf2l",
-    "href": "printing/slides/00-introduction.html#lf2l",
-    "title": "Impression 3D",
-    "section": "LF2L",
-    "text": "LF2L\nL’impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques."
-  },
-  {
-    "objectID": "electronics/slides/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
-    "href": "electronics/slides/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
-    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
-    "section": "But pédagogique de ce tutoriel",
-    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’un moteur DC et d’un pont en H (H-bridge)\n\n🔧 Savoir-faire :\n\nContrôler le sens et la vitesse d’un moteur DC avec PWM\n\n✍ Compétences :\n\nIntégrer un moteur DC dans un projet Arduino avec carte Romeo"
-  },
-  {
-    "objectID": "electronics/slides/01-ArduinoROMEO.html#connexion-du-moteur",
-    "href": "electronics/slides/01-ArduinoROMEO.html#connexion-du-moteur",
-    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
-    "section": "Connexion du moteur",
-    "text": "Connexion du moteur\n\n\n\n\n\n\n\nMoteur → Borniers M1 de la carte Romeo\n\nAlimentation 12V → VIN et GND de la Romeo\n\nUSB → pour programmer la carte\n\nLe sens de rotation dépend du câblage M1\n\n\n\n\n\n\n\nTip\n\n\n🔁 Inverser les fils M1 si le sens de rotation est inversé"
-  },
-  {
-    "objectID": "electronics/slides/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
-    "href": "electronics/slides/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
-    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
-    "section": "Contrôle de la vitesse et du sens",
-    "text": "Contrôle de la vitesse et du sens\n```cpp // Contrôle d’un moteur DC via la carte Romeo\nconst int IN1 = 4; // Contrôle du sens const int IN2 = 5;\nconst int ENA = 6; // Vitesse via PWM\nvoid setup() { pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENA, OUTPUT); }\nvoid loop() { // Tourne dans un sens digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENA, 150); // Vitesse moyenne (0–255) delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(1000);\n// Sens inverse digitalWrite(IN1, LOW); digitalWrite(IN2, HIGH); analogWrite(ENA, 200); delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(2000); }"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
-    "href": "electronics/slides/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
-    "title": "Arduino : Installation et projet de base",
-    "section": "But pédagogique de ce tutoriel",
-    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#installation-de-lide-arduino-1",
-    "href": "electronics/slides/00-Arduino.html#installation-de-lide-arduino-1",
-    "title": "Arduino : Installation et projet de base",
-    "section": "Installation de l’IDE Arduino",
-    "text": "Installation de l’IDE Arduino\n\n\n\n\n\n\n\nAller sur arduino.cc/software\n\nTélécharger et installer pour Windows, Mac ou Linux\n\nOuvrir l’IDE après installation"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#connexion-de-la-carte-arduino",
-    "href": "electronics/slides/00-Arduino.html#connexion-de-la-carte-arduino",
-    "title": "Arduino : Installation et projet de base",
-    "section": "Connexion de la carte Arduino",
-    "text": "Connexion de la carte Arduino\n\n\n\n\n\n\n\nBranchez la carte avec un câble USB\n\nDans l’IDE :\n\nOutils &gt; Type de carte &gt; Arduino Nano\n\nOutils &gt; Port &gt; COM3 (ou selon le système)\n\n\n\n\n\n\n\n\nNote\n\n\n💡 Sous Windows, utilisez le Gestionnaire de périphériques pour identifier le port."
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#pilote-ch340-pour-clones",
-    "href": "electronics/slides/00-Arduino.html#pilote-ch340-pour-clones",
-    "title": "Arduino : Installation et projet de base",
-    "section": "Pilote CH340 (pour clones)",
-    "text": "Pilote CH340 (pour clones)\n\nTélécharger ici (Windows)\n\nTélécharger pour Mac"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
-    "href": "electronics/slides/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
-    "title": "Arduino : Installation et projet de base",
-    "section": "Ajouter des bibliothèques dans l’IDE",
-    "text": "Ajouter des bibliothèques dans l’IDE\n\nMenu : Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…\n\nRechercher et installer Servo"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#matériel-nécessaire",
-    "href": "electronics/slides/00-Arduino.html#matériel-nécessaire",
-    "title": "Arduino : Installation et projet de base",
-    "section": "Matériel Nécessaire",
-    "text": "Matériel Nécessaire\n\n\n\n\n\n\n\n\n\nÉlément\nQté\n\n\n\n\nArduino Nano\n1\n\n\nCâble USB\n1\n\n\nBreadboard\n1\n\n\nCâbles Dupont\n~20\n\n\nLED + Résistance\n1\n\n\nBouton + 10kΩ\n1\n\n\nServo SG90\n1\n\n\nMoteur DC\n2\n\n\nModule L298N\n1\n\n\nBatterie (2x 3.7V)\n1"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#section",
-    "href": "electronics/slides/00-Arduino.html#section",
-    "title": "Arduino : Installation et projet de base",
-    "section": "",
-    "text": "LED\n- + → Résistance → D2\n- – → GND\nBouton\n- 1 patte → 5V\n- 1 patte → D3 + résistance → GND\nServo SG90\n- Marron → GND\n- Rouge → 5V\n- Orange → D9\nL298N\n- IN1 → D5\n- IN2 → D6\n- GND → GND Arduino\n- Alim → 9V batterie"
-  },
-  {
-    "objectID": "electronics/slides/00-Arduino.html#section-1",
-    "href": "electronics/slides/00-Arduino.html#section-1",
-    "title": "Arduino : Installation et projet de base",
-    "section": "",
-    "text": "```cpp #include &lt;Servo.h&gt;\nServo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;\nvoid setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }\nvoid loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }"
-  },
-  {
-    "objectID": "electronics/theorie.html#titulo",
-    "href": "electronics/theorie.html#titulo",
-    "title": "Théorie de Arduino",
-    "section": "titulo",
-    "text": "titulo\n/*\n  Blink\n\n  Turns an LED on for one second, then off for one second, repeatedly.\n\n  Most Arduinos have an on-board LED you can control. On the UNO, MEGA and ZERO\n  it is attached to digital pin 13, on MKR1000 on pin 6. LED_BUILTIN is set to\n  the correct LED pin independent of which board is used.\n  If you want to know what pin the on-board LED is connected to on your Arduino\n  model, check the Technical Specs of your board at:\n  https://www.arduino.cc/en/Main/Products\n\n  modified 8 May 2014\n  by Scott Fitzgerald\n  modified 2 Sep 2016\n  by Arturo Guadalupi\n  modified 8 Sep 2016\n  by Colby Newman\n\n  This example code is in the public domain.\n\n  https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink\n*/\n\n// the setup function runs once when you press reset or power the board\nvoid setup() {\n  // initialize digital pin LED_BUILTIN as an output.\n  pinMode(LED_BUILTIN, OUTPUT);\n}\n\n// the loop function runs over and over again forever\nvoid loop() {\n  digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)\n  delay(1000);                      // wait for a second\n  digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW\n  delay(1000);                      // wait for a second\n}",
-    "crumbs": [
-      "Home",
-      "Electronique & controle",
-      "Théorie de Arduino"
-    ]
-  },
-  {
     "objectID": "printing/slides/02-OrcaSlicer.html#introduction-à-orcaslicer",
     "href": "printing/slides/02-OrcaSlicer.html#introduction-à-orcaslicer",
     "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
@@ -713,6 +222,193 @@
     "title": "Utilisation de OrcaSlicer avec Forge Adventurer M5 Pro",
     "section": "Assurez-vous de toujours utiliser les bons paramètres en fonction de votre matériau et de votre imprimante pour de meilleurs résultats.",
     "text": "Assurez-vous de toujours utiliser les bons paramètres en fonction de votre matériau et de votre imprimante pour de meilleurs résultats."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#but-pédagogique-de-ce-tutorial",
+    "href": "printing/slides/00-introduction.html#but-pédagogique-de-ce-tutorial",
+    "title": "Impression 3D",
+    "section": "But pédagogique de ce tutorial",
+    "text": "But pédagogique de ce tutorial\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser les machines d’impression 3D\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#quest-ce-que-limpression-3d",
+    "href": "printing/slides/00-introduction.html#quest-ce-que-limpression-3d",
+    "title": "Impression 3D",
+    "section": "Qu’est-ce que l’impression 3D ?",
+    "text": "Qu’est-ce que l’impression 3D ?\n\n\n\n\n\n\nL’impression 3D est une technologie de fabrication qui crée des objets couche par couche, guidée par un fichier numérique traité sur un ordinateur avant d’être envoyé à la machine.\nContrairement à d’autres méthodes de fabrication, elle ne nécessite pas de moules, ce qui la rend très polyvalente, idéale pour les prototypes, la personnalisation et la production à petite échelle."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#technologies-et-matériaux-principaux",
+    "href": "printing/slides/00-introduction.html#technologies-et-matériaux-principaux",
+    "title": "Impression 3D",
+    "section": "Technologies et matériaux principaux",
+    "text": "Technologies et matériaux principaux"
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#applications-du-pla",
+    "href": "printing/slides/00-introduction.html#applications-du-pla",
+    "title": "Impression 3D",
+    "section": "Applications du PLA",
+    "text": "Applications du PLA\n\n\n\n\n\n\n\nObjets décoratifs ou artistiques.\n\nPrototypes pour des projets personnels.\n\nOrganisateurs et accessoires du quotidien.\n\nPièces de rechange non structurelles."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression",
+    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-1",
+    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-1",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-2",
+    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-2",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-3",
+    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-3",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-4",
+    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-4",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-5",
+    "href": "printing/slides/00-introduction.html#pas-à-suivre-pour-limpression-5",
+    "title": "Impression 3D",
+    "section": "Pas à suivre pour l’impression:",
+    "text": "Pas à suivre pour l’impression:\nLe processus d’impression suit ces étapes de base :\n\n\n\n\n\n\n\nObtenir un modèle 3D: Le concevoir avec des logiciels comme Tinkercad, Fusion 360 ou Blender, ou le télécharger sur Thingiverse.\n\nPréparer le fichier : Utilisez un programme slicer (Cura, PrusaSlicer) pour convertir le modèle au format G-code, en ajustant les paramètres comme la température et la vitesse.\n\nTransférer le fichier : Envoyez-le à l’imprimante via USB, SD ou Wi-Fi.\n\nCalibrer : Niveler le plateau d’impression et ajuster la buse pour une bonne adhérence.\n\nPlacer le filament : Assurez-vous qu’il soit sec et bien stocké.\n\nImprimer et superviser : Surveillez le processus pour détecter les erreurs à temps."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#mauvaise-adhérence-de-la-première-couche",
+    "href": "printing/slides/00-introduction.html#mauvaise-adhérence-de-la-première-couche",
+    "title": "Impression 3D",
+    "section": "1. Mauvaise adhérence de la première couche :",
+    "text": "1. Mauvaise adhérence de la première couche :\n\nNivelez et nettoyez le plateau d’impression.\n\nUtilisez de la colle en bâton ou un ruban bleu pour améliorer l’adhésion."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#bouchage-du-filament",
+    "href": "printing/slides/00-introduction.html#bouchage-du-filament",
+    "title": "Impression 3D",
+    "section": "2. Bouchage du filament :",
+    "text": "2. Bouchage du filament :\n\nNettoyez régulièrement l’extrudeur.\n\nÉvitez d’utiliser du filament humide."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#déplacement-des-couches",
+    "href": "printing/slides/00-introduction.html#déplacement-des-couches",
+    "title": "Impression 3D",
+    "section": "3. Déplacement des couches :",
+    "text": "3. Déplacement des couches :\n\nAssurez-vous que les courroies soient tendues.\n\nLubrifiez les guides."
+  },
+  {
+    "objectID": "printing/slides/00-introduction.html#lf2l",
+    "href": "printing/slides/00-introduction.html#lf2l",
+    "title": "Impression 3D",
+    "section": "LF2L",
+    "text": "LF2L\nL’impression 3D est une technologie en constante évolution. Apprenez, expérimentez et restez à jour avec les nouveaux matériaux et techniques."
+  },
+  {
+    "objectID": "electronics/theorie.html#titulo",
+    "href": "electronics/theorie.html#titulo",
+    "title": "Théorie de Arduino",
+    "section": "titulo",
+    "text": "titulo\n/*\n  Blink\n\n  Turns an LED on for one second, then off for one second, repeatedly.\n\n  Most Arduinos have an on-board LED you can control. On the UNO, MEGA and ZERO\n  it is attached to digital pin 13, on MKR1000 on pin 6. LED_BUILTIN is set to\n  the correct LED pin independent of which board is used.\n  If you want to know what pin the on-board LED is connected to on your Arduino\n  model, check the Technical Specs of your board at:\n  https://www.arduino.cc/en/Main/Products\n\n  modified 8 May 2014\n  by Scott Fitzgerald\n  modified 2 Sep 2016\n  by Arturo Guadalupi\n  modified 8 Sep 2016\n  by Colby Newman\n\n  This example code is in the public domain.\n\n  https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink\n*/\n\n// the setup function runs once when you press reset or power the board\nvoid setup() {\n  // initialize digital pin LED_BUILTIN as an output.\n  pinMode(LED_BUILTIN, OUTPUT);\n}\n\n// the loop function runs over and over again forever\nvoid loop() {\n  digitalWrite(LED_BUILTIN, HIGH);  // turn the LED on (HIGH is the voltage level)\n  delay(1000);                      // wait for a second\n  digitalWrite(LED_BUILTIN, LOW);   // turn the LED off by making the voltage LOW\n  delay(1000);                      // wait for a second\n}",
+    "crumbs": [
+      "Home",
+      "Electronique & controle",
+      "Théorie de Arduino"
+    ]
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "href": "electronics/slides/00-Arduino.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Arduino : Installation et projet de base",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’une carte Arduino\n\n🔧 Savoir-faire :\n\nÉcrire, téléverser et tester un programme sur Arduino\n\n✍ Compétences :\n\nRéaliser un projet avec LED, bouton, servo et moteurs"
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#installation-de-lide-arduino-1",
+    "href": "electronics/slides/00-Arduino.html#installation-de-lide-arduino-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Installation de l’IDE Arduino",
+    "text": "Installation de l’IDE Arduino\n\n\n\n\n\n\n\nAller sur arduino.cc/software\n\nTélécharger et installer pour Windows, Mac ou Linux\n\nOuvrir l’IDE après installation"
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#connexion-de-la-carte-arduino",
+    "href": "electronics/slides/00-Arduino.html#connexion-de-la-carte-arduino",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Connexion de la carte Arduino",
+    "text": "Connexion de la carte Arduino\n\n\n\n\n\n\n\nBranchez la carte avec un câble USB\n\nDans l’IDE :\n\nOutils &gt; Type de carte &gt; Arduino Nano\n\nOutils &gt; Port &gt; COM3 (ou selon le système)\n\n\n\n\n\n\n\n\nNote\n\n\n💡 Sous Windows, utilisez le Gestionnaire de périphériques pour identifier le port."
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#pilote-ch340-pour-clones",
+    "href": "electronics/slides/00-Arduino.html#pilote-ch340-pour-clones",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Pilote CH340 (pour clones)",
+    "text": "Pilote CH340 (pour clones)\n\nTélécharger ici (Windows)\n\nTélécharger pour Mac"
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "href": "electronics/slides/00-Arduino.html#ajouter-des-bibliothèques-dans-lide",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Ajouter des bibliothèques dans l’IDE",
+    "text": "Ajouter des bibliothèques dans l’IDE\n\nMenu : Croquis &gt; Inclure une bibliothèque &gt; Gérer les bibliothèques…\n\nRechercher et installer Servo"
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#matériel-nécessaire",
+    "href": "electronics/slides/00-Arduino.html#matériel-nécessaire",
+    "title": "Arduino : Installation et projet de base",
+    "section": "Matériel Nécessaire",
+    "text": "Matériel Nécessaire\n\n\n\n\n\n\n\n\n\nÉlément\nQté\n\n\n\n\nArduino Nano\n1\n\n\nCâble USB\n1\n\n\nBreadboard\n1\n\n\nCâbles Dupont\n~20\n\n\nLED + Résistance\n1\n\n\nBouton + 10kΩ\n1\n\n\nServo SG90\n1\n\n\nMoteur DC\n2\n\n\nModule L298N\n1\n\n\nBatterie (2x 3.7V)\n1"
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#section",
+    "href": "electronics/slides/00-Arduino.html#section",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "LED\n- + → Résistance → D2\n- – → GND\nBouton\n- 1 patte → 5V\n- 1 patte → D3 + résistance → GND\nServo SG90\n- Marron → GND\n- Rouge → 5V\n- Orange → D9\nL298N\n- IN1 → D5\n- IN2 → D6\n- GND → GND Arduino\n- Alim → 9V batterie"
+  },
+  {
+    "objectID": "electronics/slides/00-Arduino.html#section-1",
+    "href": "electronics/slides/00-Arduino.html#section-1",
+    "title": "Arduino : Installation et projet de base",
+    "section": "",
+    "text": "```cpp #include &lt;Servo.h&gt;\nServo monServo; int bouton = 3; int led = 2; int moteur1 = 5; int moteur2 = 6;\nvoid setup() { pinMode(bouton, INPUT); pinMode(led, OUTPUT); pinMode(moteur1, OUTPUT); pinMode(moteur2, OUTPUT); monServo.attach(9); }\nvoid loop() { if (digitalRead(bouton) == HIGH) { digitalWrite(led, HIGH); digitalWrite(moteur1, HIGH); digitalWrite(moteur2, LOW); monServo.write(90); delay(1000); digitalWrite(led, LOW); digitalWrite(moteur1, LOW); digitalWrite(moteur2, LOW); monServo.write(0); } }"
+  },
+  {
+    "objectID": "electronics/slides/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
+    "href": "electronics/slides/01-ArduinoROMEO.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaissances :\n\nComprendre le fonctionnement d’un moteur DC et d’un pont en H (H-bridge)\n\n🔧 Savoir-faire :\n\nContrôler le sens et la vitesse d’un moteur DC avec PWM\n\n✍ Compétences :\n\nIntégrer un moteur DC dans un projet Arduino avec carte Romeo"
+  },
+  {
+    "objectID": "electronics/slides/01-ArduinoROMEO.html#connexion-du-moteur",
+    "href": "electronics/slides/01-ArduinoROMEO.html#connexion-du-moteur",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "Connexion du moteur",
+    "text": "Connexion du moteur\n\n\n\n\n\n\n\nMoteur → Borniers M1 de la carte Romeo\n\nAlimentation 12V → VIN et GND de la Romeo\n\nUSB → pour programmer la carte\n\nLe sens de rotation dépend du câblage M1\n\n\n\n\n\n\n\nTip\n\n\n🔁 Inverser les fils M1 si le sens de rotation est inversé"
+  },
+  {
+    "objectID": "electronics/slides/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
+    "href": "electronics/slides/01-ArduinoROMEO.html#contrôle-de-la-vitesse-et-du-sens",
+    "title": "Arduino : Contrôler un moteur DC avec une carte Romeo",
+    "section": "Contrôle de la vitesse et du sens",
+    "text": "Contrôle de la vitesse et du sens\n```cpp // Contrôle d’un moteur DC via la carte Romeo\nconst int IN1 = 4; // Contrôle du sens const int IN2 = 5;\nconst int ENA = 6; // Vitesse via PWM\nvoid setup() { pinMode(IN1, OUTPUT); pinMode(IN2, OUTPUT); pinMode(ENA, OUTPUT); }\nvoid loop() { // Tourne dans un sens digitalWrite(IN1, HIGH); digitalWrite(IN2, LOW); analogWrite(ENA, 150); // Vitesse moyenne (0–255) delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(1000);\n// Sens inverse digitalWrite(IN1, LOW); digitalWrite(IN2, HIGH); analogWrite(ENA, 200); delay(2000);\n// Arrêt analogWrite(ENA, 0); delay(2000); }"
   },
   {
     "objectID": "laser-cut/slides/01-Ruby400.html#but-pédagogique-de-ce-tutorial",
@@ -1077,5 +773,302 @@
     "title": "Découpe Laser",
     "section": "",
     "text": "Fermez le capot."
+  },
+  {
+    "objectID": "laser-cut/tutoriels.html",
+    "href": "laser-cut/tutoriels.html",
+    "title": "Tutoriels",
+    "section": "",
+    "text": "```",
+    "crumbs": [
+      "Home",
+      "Découpe laser",
+      "Tutoriels"
+    ]
+  },
+  {
+    "objectID": "laser-cut/tutoriels.html#comment-découper-depuis-onshape",
+    "href": "laser-cut/tutoriels.html#comment-découper-depuis-onshape",
+    "title": "Tutoriels",
+    "section": "",
+    "text": "```",
+    "crumbs": [
+      "Home",
+      "Découpe laser",
+      "Tutoriels"
+    ]
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
+    "href": "printing/slides/01-flashforge.html#but-pédagogique-de-ce-tutoriel",
+    "title": "Tutoriel d’utilisation :",
+    "section": "But pédagogique de ce tutoriel",
+    "text": "But pédagogique de ce tutoriel\n\n🧠 Connaisences :\n\nDomaine de l’Impression 3D\n\n🔨 Savoir-faire :\n\nUtiliser la machine d’impression 3D Flashforge Adventurer 5M Pro\n\n✍Compéténces: :\n\nPouvoir imprimer un objet au LF2L"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#comment-imprimer-en-3d-1",
+    "href": "printing/slides/01-flashforge.html#comment-imprimer-en-3d-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Comment imprimer en 3D ?",
+    "text": "Comment imprimer en 3D ?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIl faut trois étapes:\n1) Model CAO → 2) Processus de ‘Slicing’ → 3) Fichier .Gcode"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#modèle-cao",
+    "href": "printing/slides/01-flashforge.html#modèle-cao",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Modèle CAO",
+    "text": "Modèle CAO\n\n\n\n\n\n\n\nBut\n\n\nObtenir le modèle CAO utile pour l’impression 3D."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#processus-de-slicing",
+    "href": "printing/slides/01-flashforge.html#processus-de-slicing",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Processus de Slicing",
+    "text": "Processus de Slicing\n\n\n\n\n\n\n\nBut\n\n\nTransformer le modèle .STL en un fichier machine .GCODE"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-1",
+    "href": "printing/slides/01-flashforge.html#section-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Enregistrez le fichier (format G-code) sur une clé USB compatible.\n\n\n\n\n\nAu LF2L, des clés USB sont mises à votre disposition à côté des imprimantes."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-2",
+    "href": "printing/slides/01-flashforge.html#section-2",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Assurez-vous que l’imprimante est propre, sans restes de filament sur la buse ni résidus sur le plateau d’impression."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-3",
+    "href": "printing/slides/01-flashforge.html#section-3",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Nettoyez le plateau d’impression avec un morceau d’essuie-tout et de l’alcool isopropylique."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-4",
+    "href": "printing/slides/01-flashforge.html#section-4",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Vérifiez que l’imprimante est connectée à une prise électrique.\nAppuyez sur le bouton d’alimentation situé à l’arrière, puis sur celui à l’avant."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-5",
+    "href": "printing/slides/01-flashforge.html#section-5",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Attendez que le système soit complètement initialisé avant de continuer."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-6",
+    "href": "printing/slides/01-flashforge.html#section-6",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "L’imprimante est bien allumée quand ce écran est montrée"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-7",
+    "href": "printing/slides/01-flashforge.html#section-7",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Placez le filament à l’arrière de l’imprimante."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-8",
+    "href": "printing/slides/01-flashforge.html#section-8",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ouvrez la porte du haut"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
+    "href": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
+    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-9",
+    "href": "printing/slides/01-flashforge.html#section-9",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament”."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
+    "href": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Attendez que la température atteigne 220 °C",
+    "text": "Attendez que la température atteigne 220 °C"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-10",
+    "href": "printing/slides/01-flashforge.html#section-10",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
+    "href": "printing/slides/01-flashforge.html#limprimante-extrudera-du-filament-pendant-un-moment-ce-qui-est-nécessaire-pour-nettoyer-tout-reste-de-filament-précédent.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent.",
+    "text": "L’imprimante extrudera du filament pendant un moment, ce qui est nécessaire pour nettoyer tout reste de filament précédent."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-11",
+    "href": "printing/slides/01-flashforge.html#section-11",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament imprimé."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-12",
+    "href": "printing/slides/01-flashforge.html#section-12",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Ouvrez la porte du haut"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-13",
+    "href": "printing/slides/01-flashforge.html#section-13",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le tube blanc et coupez l’ancien filament à l’aide d’une pince\n\n\n\n\n\nRemarque : Les pinces se trouvent soit à côté des imprimantes. Si ce n’est pas le cas, demandez-les aux FabManagers."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-14",
+    "href": "printing/slides/01-flashforge.html#section-14",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament du tube blanc en tirant doucement avec la bobine, puis fixez son extrémité dans la bobine pour l’empêcher de se dérouler"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-15",
+    "href": "printing/slides/01-flashforge.html#section-15",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Placez le nouveau filament sur la base située à l’arrière de l’imprimante."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
+    "href": "printing/slides/01-flashforge.html#placez-le-bord-du-filament-dans-le-tube-blanc-et-poussez-jusquà-ce-quil-ressorte-de-lautre-côté.-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté.",
+    "text": "Placez le bord du filament dans le tube blanc et poussez jusqu’à ce qu’il ressorte de l’autre côté."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-16",
+    "href": "printing/slides/01-flashforge.html#section-16",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Accédez au menu via l’écran tactile et sélectionnez l’option “Filament”.\nChoisissez l’option “Changer de Filament” et “Démarrer”"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
+    "href": "printing/slides/01-flashforge.html#attendez-que-la-température-atteigne-220-c-1",
+    "title": "Tutoriel d’utilisation :",
+    "section": "Attendez que la température atteigne 220 °C",
+    "text": "Attendez que la température atteigne 220 °C"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-17",
+    "href": "printing/slides/01-flashforge.html#section-17",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez le filament dans l’extrudeuse comme indiqué sur l’image. Si cela est fait correctement, l’imprimante le détectera et l’extrudera."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
+    "href": "printing/slides/01-flashforge.html#limprimante-extrudera-un-moment-pour-nettoyer-le-filament-précédent.-vérifiez-lextrusion-sinon-redémarrez-le-processus.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus.",
+    "text": "L’imprimante extrudera un moment pour nettoyer le filament précédent. Vérifiez l’extrusion, sinon, redémarrez le processus."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-18",
+    "href": "printing/slides/01-flashforge.html#section-18",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Retirez le filament imprimé."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-19",
+    "href": "printing/slides/01-flashforge.html#section-19",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Insérez la clé USB contenant le fichier G-code dans le port USB de l’imprimante."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-20",
+    "href": "printing/slides/01-flashforge.html#section-20",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Depuis le menu principal, sélectionnez “Imprimer” et naviguez jusqu’au fichier enregistré sur la clé USB."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-21",
+    "href": "printing/slides/01-flashforge.html#section-21",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "IMPORTANT : Avant de lancer l’impression, choisissez l’option “Calibrer” pour régler le plateau."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-22",
+    "href": "printing/slides/01-flashforge.html#section-22",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Appuyez sur le bouton “Imprimer” et confirmez votre sélection."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
+    "href": "printing/slides/01-flashforge.html#limprimante-prendra-du-temps-à-imprimer-en-raison-de-la-nécessité-de-chauffer-le-buzzer.",
+    "title": "Tutoriel d’utilisation :",
+    "section": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer.",
+    "text": "L’imprimante prendra du temps à imprimer en raison de la nécessité de chauffer le buzzer."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-23",
+    "href": "printing/slides/01-flashforge.html#section-23",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Observez l’impression de la première couche :"
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-24",
+    "href": "printing/slides/01-flashforge.html#section-24",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Assurez-vous que le filament adhère correctement au plateau d’impression."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-25",
+    "href": "printing/slides/01-flashforge.html#section-25",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En cas de problème (mauvaise adhérence, lignes irrégulières, etc.), interrompez l’impression pour recalibrer ou ajuster les paramètres."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-26",
+    "href": "printing/slides/01-flashforge.html#section-26",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Une fois l’impression terminée, attendez que le plateau refroidisse pour éviter tout dommage."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-27",
+    "href": "printing/slides/01-flashforge.html#section-27",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "Prendre la poignée grise de la plaque d’impression et exercer une légère pression vers le haut."
+  },
+  {
+    "objectID": "printing/slides/01-flashforge.html#section-28",
+    "href": "printing/slides/01-flashforge.html#section-28",
+    "title": "Tutoriel d’utilisation :",
+    "section": "",
+    "text": "En prenant la plaque par deux côtés, tordre le légèrement pour décoller l’impression. Si nécessaire, tournez-la de 90 degrés et procédez de la même manière sur les autres côtés."
   }
 ]

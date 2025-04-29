@@ -60,3 +60,7 @@ format:
     lang: fr
 
 license: CC BY-SA
+
+execute: 
+  cache: true
+  freeze: true  # re-render only when source changes

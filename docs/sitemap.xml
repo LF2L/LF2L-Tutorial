@@ -1,55 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>/index.html</loc>
-    <lastmod>2025-04-24T20:12:55.461Z</lastmod>
-  </url>
-  <url>
-    <loc>/laser-cut/tutoriels.html</loc>
-    <lastmod>2025-04-24T19:46:27.885Z</lastmod>
-  </url>
-  <url>
-    <loc>/printing/theorie.html</loc>
-    <lastmod>2025-04-24T19:34:00.445Z</lastmod>
-  </url>
-  <url>
-    <loc>/printing/slides/01-flashforge.html</loc>
-    <lastmod>2025-04-24T14:22:20.184Z</lastmod>
-  </url>
-  <url>
-    <loc>/printing/slides/00-introduction.html</loc>
-    <lastmod>2025-04-24T19:43:47.757Z</lastmod>
-  </url>
-  <url>
-    <loc>/electronics/tutoriels.html</loc>
-    <lastmod>2025-04-24T20:01:17.307Z</lastmod>
-  </url>
-  <url>
-    <loc>/electronics/slides/01-ArduinoROMEO.html</loc>
-    <lastmod>2025-04-24T20:00:24.310Z</lastmod>
-  </url>
-  <url>
-    <loc>/electronics/slides/00-Arduino.html</loc>
-    <lastmod>2025-04-24T19:48:10.162Z</lastmod>
-  </url>
-  <url>
-    <loc>/electronics/theorie.html</loc>
-    <lastmod>2025-04-24T14:48:06.768Z</lastmod>
+    <loc>/printing/tutoriels.html</loc>
+    <lastmod>2025-04-28T11:50:29.896Z</lastmod>
   </url>
   <url>
     <loc>/printing/slides/02-OrcaSlicer.html</loc>
-    <lastmod>2025-04-24T14:22:26.573Z</lastmod>
+    <lastmod>2025-04-28T11:50:29.479Z</lastmod>
   </url>
   <url>
-    <loc>/printing/tutoriels.html</loc>
-    <lastmod>2025-04-24T19:45:54.124Z</lastmod>
-  </url>
-  <url>
-    <loc>/laser-cut/slides/01-Ruby400.html</loc>
-    <lastmod>2025-04-24T19:46:31.829Z</lastmod>
+    <loc>/printing/slides/00-introduction.html</loc>
+    <lastmod>2025-04-29T10:52:22.931Z</lastmod>
   </url>
   <url>
     <loc>/laser-cut/theorie.html</loc>
-    <lastmod>2025-04-24T14:55:39.845Z</lastmod>
+    <lastmod>2025-04-28T11:50:29.460Z</lastmod>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+    <lastmod>2025-04-28T11:50:28.972Z</lastmod>
+  </url>
+  <url>
+    <loc>/electronics/theorie.html</loc>
+    <lastmod>2025-04-28T11:50:28.959Z</lastmod>
+  </url>
+  <url>
+    <loc>/electronics/slides/00-Arduino.html</loc>
+    <lastmod>2025-04-28T11:50:28.941Z</lastmod>
+  </url>
+  <url>
+    <loc>/electronics/slides/01-ArduinoROMEO.html</loc>
+    <lastmod>2025-04-28T11:50:28.945Z</lastmod>
+  </url>
+  <url>
+    <loc>/electronics/tutoriels.html</loc>
+    <lastmod>2025-04-28T11:50:28.963Z</lastmod>
+  </url>
+  <url>
+    <loc>/laser-cut/slides/01-Ruby400.html</loc>
+    <lastmod>2025-04-28T11:50:28.978Z</lastmod>
+  </url>
+  <url>
+    <loc>/laser-cut/tutoriels.html</loc>
+    <lastmod>2025-04-28T11:50:29.464Z</lastmod>
+  </url>
+  <url>
+    <loc>/printing/slides/01-flashforge.html</loc>
+    <lastmod>2025-04-28T11:50:29.475Z</lastmod>
+  </url>
+  <url>
+    <loc>/printing/theorie.html</loc>
+    <lastmod>2025-04-28T11:50:29.892Z</lastmod>
   </url>
 </urlset>
